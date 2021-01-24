@@ -30,3 +30,4 @@ Light Mode | Dark Mode
 * Alt+Right - Go Forward
 * Alt+Up - Go Up
 
+This repo does not contain any source code!
