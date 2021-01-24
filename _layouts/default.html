@@ -27,9 +27,8 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
         
-      {% if site.show_store %}        
-        <a href="{{ site.store_url }}" class="btn">Download from Microsoft Store</a>        
-      {% endif %}      
+      <a href="https://www.microsoft.com/en-us/p/shrestha-files/9npnffsv2hqm" class="btn">Download from Microsoft Store</a>    
+      
       
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -39,6 +38,7 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>        
       {% endif %}
+      
     </header>
 
     <main id="content" class="main-content" role="main">
