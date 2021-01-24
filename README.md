@@ -7,5 +7,5 @@ If you like file managers such as Q-dir, Directory Opus, Total Commander, xplore
 Light Mode | Dark Mode
 ---------- | ----------
 ![Single Pane Light](/images/SingleLightFull.png) | ![Single Pane Dark](/images/SingleDark.png)
-![Dual Pane Light](/images/DualPaneLight.png) | ![Dual Pane Light](/images/DualLight.png)
+![Dual Pane Light](/images/DualLight.png) | ![Dual Pane Light](/images/DualDark.png)
 
