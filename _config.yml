@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-show_downloads: true
-github:
-  another_url: https://www.microsoft.com/store/apps/9NPNFFSV2HQM
+
+show_store: true
+store_url: https://www.microsoft.com/store/apps/9NPNFFSV2HQM
 
 title: Shrestha Files
 description: A Modern Dual Pane File Manager for Windows 10 and Windows 10X Devices
