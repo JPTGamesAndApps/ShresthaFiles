@@ -80,5 +80,9 @@ Some files such as .exe, .bat are considered risky by Microsoft. As such, the UW
 #### Shrestha Files takes takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
 The UWP API needs to access files and folders through a runtime broker provided by Microsoft instead of accessing the files and folders directly. This runtime broker is slower than more direct access (that is used by win32 apps). Microsoft is working to improve the file access speed in Project Reunion. Once Microsoft completes the project, the tab loading speed will improve.
 
+#### What is the difference between the Pro and Free version?
+The pro verion is updated more often than Free version. Some features are available only in Pro version. The free version also shows a prompt requesting to consider purchasing a pro version every time the Free version is launched. Users support is essential to continue improving the app further. This includes providing feedback, sending bug information, requesting new features, and purchasing pro version. While all features requests cannot be fulfilled, the developer will attempt to fulfill features that are requested by more users and that are easier to implement.
+
+
 ### Note
 This repo does not contain source code for Shrestha Files!
