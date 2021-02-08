@@ -65,7 +65,7 @@ The tabs, bookmarks, and other settings are stored in config.json file. Sometime
 Sometimes the config file (that stores the settings for the app) changes in the newer version. While attempts are made to upgrade the config files automatically, sometimes such process fails and can crash the app. In such case, you might need to rename or move the config.json and its versions in the LocalState folder. Launch the app again and save settings (Ctrl+S) and a new config.json will be created. You can manually import desired previus settings from the existing config files that you just moved or renamed.
 
 #### I edited the config.json, but nothing changed. Did I do something wrong?
-Make sure the app was not running when you edited and saved config.json. The application saves the config.json when closing the app. If you edited the config.json when the application was running, it will be overridden by the values in the memory. Thus, make sure the app is closed while editing the config.json. Then save the config.json and launch the app afterwards.
+Make sure the app was not running when you edited and saved config.json. The application saves the config.json when closing the app. If you edited the config.json when the application was running, it will be overridden by the values in the memory. Thus, make sure the app is closed while editing the config.json. Then save the config.json, and launch the app afterwards.
 
 
 #### I edited the config.json. Now I lost all my tabs and bookmarks. What happened?
