@@ -71,13 +71,13 @@ Make sure the app was not running when you edited and saved config.json. The app
 #### I edited the config.json. Now I lost all my tabs and bookmarks. What happened?
 If the config.json is edited improperly, the app will fail to read the config.json. In such case, the app will try to read previous version of config.json. If that fails as well, it will rest the settings.
 
-### Shrestha Files does not show shortcuts, hidden files, and system files, why?
+#### Shrestha Files does not show shortcuts, hidden files, and system files, why?
 UWP APIs have platform limitations that do not allow accessing some files such as shortcut (.url, .lnk, etc.), hidden files, and system files. Microsoft needs to allow access to such files before Shrestha Files is able to show such files.
 
-### Shrestha Files failed to open some files, why?
+#### Shrestha Files failed to open some files, why?
 Some files such as .exe, .bat are considered risky by Microsoft. As such, the UWP APIs cannot launch such files.
 
-### Shrestha Files takes takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
+#### Shrestha Files takes takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
 The UWP API needs to access files and folders through a runtime broker provided by Microsoft instead of accessing the files and folders directly. This runtime broker is slower than more direct access (that is used by win32 apps). Microsoft is working to improve the file access speed in Project Reunion. Once Microsoft completes the project, the tab loading speed will improve.
 
 ### Note
