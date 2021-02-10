@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 layout: default
-filename: privacy.html
+filename: privacy
 --- 
 
 
