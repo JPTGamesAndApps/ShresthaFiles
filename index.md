@@ -1,5 +1,5 @@
 ---
-title: Shrestha Files
+title: Home
 layout: default
 filename: index.md
 --- 
