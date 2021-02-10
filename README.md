@@ -1,7 +1,7 @@
 ---
 title: Read Me
 layout: default
-filename: readme.md
+filename: readme
 --- 
 
 
