@@ -5,7 +5,7 @@ filename: changelog
 --- 
 
 
-##Changelog
+## Changelog
 
 **Changelog for Version 0.34.x (February 12, 2021)**
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
