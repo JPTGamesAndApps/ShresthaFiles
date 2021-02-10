@@ -30,6 +30,28 @@ Light Mode | Dark Mode
 * Alt+Right - Go Forward
 * Alt+Up - Go Up
 
+
+
+### Chanegelog
+**Changelog for Version 0.33.x (February 8, 2021)**
+* Added update checker. Updates are checked every time Shrestha Files loads.
+* Added single click mode in config file.
+* Thanks to Parasec Glenkwyst for German (de-DE) Translation.
+* Added translator names in About page.
+* Bug fixes
+* Note: If recent updated added repeated items (such as This PC) in the side bar, please remove the repeated once by right clicking on the item, and keep the first ones.
+
+**Changelog for Version 0.32.x (February 6, 2021)**
+* Automatically checks for an udpated version of the app in the store and prompts to install if newer version is available.
+* Fixed crash while upgrading from older version (before v0.30 to later version)
+* Fixed other bugs.
+
+**Changelog for Version 0.31.x (February 5, 2021)**
+* Fixed serious bug introduced while adding the translations. The bug resulted in the failure of all file operations. The developer apologizes for the serious bug.
+
+
+
+
 ### Privacy Policy
 The app requires access to user File System to execute the apps core functionalities (as a file manager). Users can enable the file access from: ```Windows 10(X) Settings -> Privacy -> File System -> Toggle On File Access for Shrestha Files.```
 
