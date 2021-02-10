@@ -269,7 +269,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 
-Version 0.17.x (October 6, 2020)
+**Version 0.17.x (October 6, 2020)**
 * Added feature to change theme manually.
 * Changed the selection mode option to checkbox to simplify the option.
 * Updated the view modes sizes.
