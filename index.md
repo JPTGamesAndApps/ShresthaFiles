@@ -17,7 +17,8 @@ Light Mode | Dark Mode
 ![Single Pane Light](/images/SingleLight.png) | ![Single Pane Dark](/images/SingleDark.png)
 ![Dual Pane Light](/images/DualLight.png) | ![Dual Pane Light](/images/DualDark.png)
 
-### Keyboard Shortcuts
+### Keyboard Accelerators (Shortcuts)
+Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
 * F1 - About dialog
 * F2 - Rename file/folder
 * F3 - Open file/folder
