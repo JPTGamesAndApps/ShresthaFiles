@@ -30,6 +30,12 @@ Light Mode | Dark Mode
 * Alt+Right - Go Forward
 * Alt+Up - Go Up
 
+### Tips and Tricks
+* You can double click on empty area in any tab to navigation to the parent directory (go up a level).
+* You can right click any navigation bar item to open the path in a new tab or delete the item.
+* Some settings are currently only accessible from config.json file in app directory.
+* You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
+* Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
 
 
 ### Chanegelog
@@ -58,6 +64,8 @@ The app requires access to user File System to execute the apps core functionali
 Microsoft telemetry and App Center APIs in the app may collect information about the app crashes and usage for diagnostics and analytical purposes. A log file is generated to store logs such as errors, warnings, and other information. However, the file is not tranmitted outside the users device. Users can send the log for diagnostic purposes.
 
 ### Frequently Asked Questions (FAQs)
+#### Keyboard Accelerators (Shortcuts) does not appear to work. What can I do?
+Sometimes the keyboard accelerators does not work as expected. This is currently a known bug that will be fixed in the future. If the accelerator is not working, click at the empty space in one of the two panes once and the shortcuts should work. If it still does not work, please let the developer know.
 
 #### I ran the app, but the drives do not show up, and clicking libraries load empty folders only. What's wrong?
 Make sure that the Windows 10 File Access permission is granted for Shrestha Files. You can either go to
