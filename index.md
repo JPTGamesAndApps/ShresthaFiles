@@ -45,36 +45,6 @@ Light Mode | Dark Mode
 * You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
 * Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
 
-
-### Chanegelog
-**Changelog for Version 0.34.x (February 12, 2021)**
-* Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
-* When dragging and dropping items in the same folder, it does not copy/move items anymore. Thanks to Chomu_ for feedback!
-* Initial implementation of back and forward button in mouse to navigation back and forward. Let the developer know if it still does not work.
-* Improved change tracker when items are deleted from outside the app.
-* Added translations in Chinese (Simplified), Czech, French, German, Hindi, Hungarian, Italian, Japanese, Korean, Russian, Spaish, and Turkish. The translations are based on Google Translation, so some of the translations could be confusing and/or misleading.
-* Bug Fixed: Updated method to set panel background transparency in dual pane mode to fix the crash caused by the Layout Cycle bug.
-* Other bug fixes.
-
-**Changelog for Version 0.33.x (February 8, 2021)**
-* Added update checker. Updates are checked every time Shrestha Files loads.
-* Added single click mode in config file.
-* Thanks to Parasec Glenkwyst for German (de-DE) Translation.
-* Added translator names in About page.
-* Bug fixes
-* Note: If recent updated added repeated items (such as This PC) in the side bar, please remove the repeated once by right clicking on the item, and keep the first ones.
-
-**Changelog for Version 0.32.x (February 6, 2021)**
-* Automatically checks for an udpated version of the app in the store and prompts to install if newer version is available.
-* Fixed crash while upgrading from older version (before v0.30 to later version)
-* Fixed other bugs.
-
-**Changelog for Version 0.31.x (February 5, 2021)**
-* Fixed serious bug introduced while adding the translations. The bug resulted in the failure of all file operations. The developer apologizes for the serious bug.
-
-
-
-
 ### Privacy Policy
 The app requires access to user File System to execute the apps core functionalities (as a file manager). Users can enable the file access from: ```Windows 10(X) Settings -> Privacy -> File System -> Toggle On File Access for Shrestha Files.```
 
