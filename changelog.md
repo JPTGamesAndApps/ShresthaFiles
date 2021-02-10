@@ -1,7 +1,7 @@
 ---
 title: Change Log History
 layout: default
-filename: changelog.html
+filename: changelog
 --- 
 
 **Changelog for Version 0.34.x (February 12, 2021)**
