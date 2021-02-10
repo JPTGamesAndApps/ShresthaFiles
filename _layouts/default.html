@@ -37,16 +37,22 @@
       
       
       
+        <a href=changelog class="btn">Change Log</a>
+        <a href=changelog.html class="btn">Change Log</a>
+        <a href=changelog.md class="btn">Change Log</a>
+      
+        <a href="changelog" class="btn">Change Log</a>
+        <a href="changelog.html" class="btn">Change Log</a>
+        <a href="changelog.md" class="btn">Change Log</a>
       
       
       
       
-      
-      
+      {% comment %}
       {% for page in site.pages %}
         <a href={{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
-      
+      {% endfor %}      
+      {% endcomment %}
       
       
       
