@@ -8,7 +8,7 @@ filename: changelog
 ## Changel Log History
 
 {% comment %}
-**Changelog for Version 0.34.x (February 12, 2021)**
+**Changelog for Version 0.34.x (Unreleased)**
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
 * When dragging and dropping items in the same folder, it does not copy/move items anymore. Thanks to Chomu_ for feedback!
 * Initial implementation of back and forward button in mouse to navigation back and forward. Let the developer know if it still does not work.
