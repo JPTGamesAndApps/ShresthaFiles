@@ -7,7 +7,17 @@ filename: changelog
 
 ## Changel Log History
 
+{% endcomment %}
+
 {% comment %}
+**Changelog for Version 0.35.x (February 12, 2021)**
+* Single click mode added as a result of popular demand.
+* Flyout showing icons in Navigation bar edit view will now dismiss after selecting an icon.
+* About Page now shows more information in selected language.
+* Added analytics to understand and improve user experience.
+* Added analytics to get handled exceptions (errors).
+* Updated German Translation. Thanks to Parasec Glenkwyst!
+
 **Changelog for Version 0.34.x (Unreleased)**
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
 * When dragging and dropping items in the same folder, it does not copy/move items anymore. Thanks to Chomu_ for feedback!
@@ -18,7 +28,6 @@ filename: changelog
 * Other bug fixes.
 
 
-{% endcomment %}
 
 **Changelog for Version 0.33.x (February 8, 2021)**
 * Added update checker. Updates are checked every time Shrestha Files loads.
