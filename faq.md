@@ -49,6 +49,11 @@ UWP APIs have platform limitations that do not allow accessing some files such a
 ### Shrestha Files failed to open some files, why?
 Some files such as .exe, .bat are considered risky by Microsoft. As such, the UWP APIs cannot launch such files.
 
+### I would like to access my network locations quicker. Is there any way to do so?
+There are two potential methods to ease accessing network locations. 
+1. Type the location (e.g. "\\share\foldername") in the path and navigate to the folder. Now bookmark the path (Ctrl + D) or right click and Pin to Navigation Bar. 
+2. Map the location as a drive from Windows File Explorer. The path will now show up in the list of drives in Shrestha Files!
+
 ### Shrestha Files takes takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
 The UWP API needs to access files and folders through a runtime broker provided by Microsoft instead of accessing the files and folders directly. This runtime broker is slower than more direct access (that is used by win32 apps). Microsoft is working to improve the file access speed in Project Reunion. Once Microsoft completes the project, the tab loading speed will improve.
 
