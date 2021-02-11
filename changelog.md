@@ -7,6 +7,7 @@ filename: changelog
 
 ## Changelog
 
+{% comment %}
 **Changelog for Version 0.34.x (February 12, 2021)**
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
 * When dragging and dropping items in the same folder, it does not copy/move items anymore. Thanks to Chomu_ for feedback!
@@ -17,6 +18,7 @@ filename: changelog
 * Other bug fixes.
 
 
+{% endcomment %}
 
 **Changelog for Version 0.33.x (February 8, 2021)**
 * Added update checker. Updates are checked every time Shrestha Files loads.
