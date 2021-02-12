@@ -4,9 +4,6 @@ layout: default
 filename: changelog
 --- 
 
-{% comment %}
-{% endcomment %}
-
 ## Change Log History
 
 
