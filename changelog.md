@@ -7,7 +7,7 @@ filename: changelog
 {% comment %}
 {% endcomment %}
 
-## Changel Log History
+## Change Log History
 
 
 
