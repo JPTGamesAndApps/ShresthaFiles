@@ -4,12 +4,13 @@ layout: default
 filename: changelog
 --- 
 
+{% comment %}
+{% endcomment %}
 
 ## Changel Log History
 
-{% endcomment %}
 
-{% comment %}
+
 **Changelog for Version 0.35.x (February 12, 2021)**
 * Single click mode added as a result of popular demand.
 * Flyout showing icons in Navigation bar edit view will now dismiss after selecting an icon.
@@ -17,6 +18,8 @@ filename: changelog
 * Added analytics to understand and improve user experience.
 * Added analytics to get handled exceptions (errors).
 * Updated German Translation. Thanks to Parasec Glenkwyst!
+
+
 
 **Changelog for Version 0.34.x (Unreleased)**
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
