@@ -16,7 +16,7 @@ filename: changelog
 * Added analytics to get handled exceptions (errors).
 * Updated German Translation. Thanks to Parasec Glenkwyst!
 * Date column is listed before Type column in detailed view mode to match Windows File Explorer's default behavior. Thanks to mgkai for feedback!
-* Fixe bug that crashed the app when dragging multiple folders to the navigation bar.
+* Fixed bug that crashed the app when dragging multiple folders to the navigation bar.
 * Link to the Home Page for Shrestha Files Added (https://JPTGamesAndApps.Github.io/ShresthaFiles/)
 
 
