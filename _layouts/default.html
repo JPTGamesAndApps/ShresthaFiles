@@ -3,17 +3,21 @@
   <head>
 
     
-    
-    
-    
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-REJKSFYBN0"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-REJKSFYBN0');
+      </script>
     
     
     
     
     {% if site.google_analytics %}
-    
-    {% endif %}
-    
+    {% comment %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
@@ -21,6 +25,14 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
       </script>
+    {% endcomment %}
+    {% endif %}
+    
+    
+    
+    
+    
+    
     <meta charset="UTF-8">
 
     
