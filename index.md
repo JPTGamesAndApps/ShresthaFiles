@@ -48,11 +48,6 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
 * Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
 
-### Privacy Policy
-The app requires access to user File System to execute the apps core functionalities (as a file manager). Users can enable the file access from: ```Windows 10(X) Settings -> Privacy -> File System -> Toggle On File Access for Shrestha Files.```
-
-Microsoft telemetry and App Center APIs in the are used to collect information about the app crashes, errors, and user interaction inside the app for diagnostics and analytical purposes. A log file is generated to store logs such as errors, warnings, and other information. Of these four types, only the error information are collected using the App Center API. Users can manually email the log file with all the details to the developer for diagnostics purposes.
-
 
 ### Note
 This repo does not contain source code for Shrestha Files!
