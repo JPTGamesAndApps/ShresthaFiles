@@ -8,7 +8,25 @@ filename: changelog
 
 
 
+
+**Changelog for Version 0.37.x (February 23, 2021)**
+
+* Updated logo.
+* Added [Discord Link](https://discord.gg/nXmdRPJAdc) in About Page 
+* Updated Hungarian translation. Thanks to Kristóf Kékesi!
+* Loads thumbnail images after text to improve item loading speed.
+* Change log in about page are now displayed with markdowntextblock instead of regular textblock.
+* Improved method to track and update changes in the file system - especially delete and content change.
+* Bug fixes.
+
+
+
+**Changelog for Version 0.36.x (Skipped for special edition)**
+
+
+
 **Changelog for Version 0.35.x (February 12, 2021)**
+
 * Single click mode added as a result of popular demand.
 * Flyout showing icons in Navigation bar edit view will now dismiss after selecting an icon.
 * About Page now shows more information in selected language.
@@ -16,23 +34,26 @@ filename: changelog
 * Added analytics to get handled exceptions (errors).
 * Updated German Translation. Thanks to Parasec Glenkwyst!
 * Date column is listed before Type column in detailed view mode to match Windows File Explorer's default behavior. Thanks to mgkai for feedback!
-* Fixed bug that crashed the app when dragging multiple folders to the navigation bar.
-* Link to the Home Page for Shrestha Files Added (https://JPTGamesAndApps.Github.io/ShresthaFiles/)
+* Fixe bug that crashed the app when dragging multiple folders to the navigation bar.
+* Link to the [Home Page](https://JPTGamesAndApps.Github.io/ShresthaFiles/) for Shrestha Files Added 
 
 
 
 **Changelog for Version 0.34.x (Unreleased)**
+
 * Updated sizes for this PC (Home Page) items. Thanks to Chomu_ for feedback!
 * When dragging and dropping items in the same folder, it does not copy/move items anymore. Thanks to Chomu_ for feedback!
 * Initial implementation of back and forward button in mouse to navigation back and forward. Let the developer know if it still does not work.
 * Improved change tracker when items are deleted from outside the app.
-* Added translations in Chinese (Simplified), Czech, French, Hindi, Hungarian, Italian, Japanese, Korean, Russian, Spaish, and Turkish. The translations are based on Google Translation, so some of the translations could be confusing and/or misleading.
+* Added translations in Chinese (Simplified), Chinese (Traditional), Czech, French, German, Hindi, Hungarian, Italian, Japanese, Korean, Russian, Spaish, and Turkish. The translations are based on Google Translation, so some of the translations could be confusing and/or misleading.
 * Bug Fixed: Updated method to set panel background transparency in dual pane mode to fix the crash caused by the Layout Cycle bug.
 * Other bug fixes.
 
 
 
+
 **Changelog for Version 0.33.x (February 8, 2021)**
+
 * Added update checker. Updates are checked every time Shrestha Files loads.
 * Added single click mode in config file.
 * Thanks to Parasec Glenkwyst for German (de-DE) Translation.
@@ -43,6 +64,7 @@ filename: changelog
 
 
 **Changelog for Version 0.32.x (February 6, 2021)**
+
 * Automatically checks for an udpated version of the app in the store and prompts to install if newer version is available.
 * Fixed crash while upgrading from older version (before v0.30 to later version)
 * Fixed other bugs.
@@ -50,11 +72,13 @@ filename: changelog
 
 
 **Changelog for Version 0.31.x (February 5, 2021)**
+
 * Fixed serious bug introduced while adding the translations. The bug resulted in the failure of all file operations. The developer apologizes for the serious bug.
 
 
 
 **Changelog for Version 0.30.x (February 5, 2021)**
+
 * Improved Navigation Bar Edit View:
 	* Item borders are now hidden for cleaner interface.
 	* Icon choices now displayed in a grid instead of a long list.
@@ -66,6 +90,7 @@ filename: changelog
 
 
 **Changelog for Version 0.29.x (February 1, 2021)**
+
 * File access permission prompt should not show up if at least one drive was accessed successfully.
 * Fixed: App crashes when changing the tab view type before item loading is complete.
 * Fixed: App crashes when trying to open a file that may not exist anymore.
@@ -74,6 +99,7 @@ filename: changelog
 
 
 **Changelog for Version 0.28.x (January 31, 2021)**
+
 * First release of the free version with some limitations!
 * Re-added browse location for permission in Settings for devices such as XBox and Windows 10X that may not have File Access Permission Settings.
 * Bug fixes.
@@ -81,6 +107,7 @@ filename: changelog
 
 
 **Changelog for Version 0.27.x (January 30, 2021)**
+
 * You app settings might be reset after the udpate. A back up config will be saved in the Application folder (LocalState) if users desire to copy some settings manually.
 * Draggable area improvements - More areas to drag/move windows:
 	* Draggable region on the top right side of the screen is now wider. Thanks to feedback from @Zen.
@@ -111,6 +138,7 @@ filename: changelog
 
 
 **Changelog for Version 0.26.x (January 16, 2021)**
+
 * Added context menu option to open selected folder in a new tab.
 * Updated the Most Recent Items View in the Home Page to use the tile view with thumbnails.
 * Supercharged About Dialogue with keyboard shortcuts, changelogs, and more.
@@ -130,6 +158,7 @@ filename: changelog
 
 
 **Changelog for Version 0.25.x (January 1, 2021)** 
+
 * Added proper tool tip descriptions for all buttons and context menus.
 * When any picture is opened from the app, users will be able to browse to other photos in the Folder (in Windows Photos app).
 * Added notification when saved settings cannot be read.
@@ -143,14 +172,17 @@ filename: changelog
 
 
 **Changelog for Version 0.24.x (December 28, 2020)** 
+
 This is one of the major updates with a significant number of improvements and bug fixes.
 
 * General Interface *
+
 * After the app is updated, the most recent changelog is displayed directly in the app.
 * Updated and improved Welcome and About Windows.
 * Purchase option added in the trial expired message.
 
 * Navigation Bar *
+
 * Libraries now have Desktop, Documents, Downloads, Pictures, Music, and Videos. The Desktop link does not work in Windows 10X (not Windows 10).
 * The library items now use path instead of StorageFolder. This will increase their reliability and enable the use of change trackers for the library folders.
 * Improved code base to load drives in the navigation bar and home page.
@@ -158,6 +190,7 @@ This is one of the major updates with a significant number of improvements and b
 * While adding bookmarks in the navigation item bar (Ctrl+D), a unique name is generated to avoid any issue later.
 
 * File Operations *
+
 * Improved progress count behavior when "If File Exist in Destination -> Skip" option is selected.
 * Added Progress Indicator for Compression and Decompression operations.
 * Improved sanity check for file operations. Now also checks if an item is being replaced by itself (when "If File Exist in Destination" -> "Replace" is checked).
@@ -165,11 +198,13 @@ This is one of the major updates with a significant number of improvements and b
 * More streamlined notifications of file operations. Start and completion of file operations are logged now. File operation errors are also logged now.
 
 * Miscellaneous *
+
 * Background tracker for tabs in the second pane is removed when switching from dual pane to single pane mode.
 * Cleaned up start up tasks for improved performance.
 * Updated the minimum OS version to Windows 10 Version 2004 (20H1).
 
 * Other Fixes *
+
 * Fixed: Keyboard Accelerators not executing at all or not executing in the correct tab when the tab is empty.
 * Fixed: Crash while dragging a file to navigation bar.
 * Fixed: Sometimes tab header does not change from "This PC" to correct title.
@@ -183,6 +218,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.23.x (December 14, 2020)**
+
 * Updated Navigation bar item edit UI (wider UI to ease path entry and viewing)
 * Improved file/folder drag and drop. Can drop items inside a folder now, not just inside a tab page.
 * Can drag folders to navigation bar to pin it there.
@@ -193,6 +229,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.22.x (November 30, 2020)**
+
 * This version focuses primarily on performance improvements and bug fixes.
 * Added clickable breadcrumb trails inside the tabs in the dual pane mode.
 * Hides purchase option if already purchased.
@@ -205,7 +242,8 @@ This is one of the major updates with a significant number of improvements and b
  
  
 
-**Version 0.21.x (November 15, 2020) **
+**Version 0.21.x (November 15, 2020)**
+
 * Back and forward navigation icons will be enabled/disabled as relevant.
 * Reverted the fast loading option to an experimental status as it appear to cause some issues sometimes.
 * Will open file/folders faster on double click double click.
@@ -224,6 +262,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.20.x (November 1, 2020)**
+
 * Updated file operation (such as copy/paste/cut) speed with updated codebase.
 * More detailed file operation progress reporting is available in the progress viewer.
 * Re-enabled manual change trigger after file operations such as new file and new folder creation to improve auto refreshing of the tab contents.
@@ -235,12 +274,14 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.19.x (October 29, 2020)**
+
 * This is the most significant update of the app to date. A significant portion of codebase is rewritten/updated to improve item loading speed, more future proof configuration files, and improved auto change tracker to reflect item changes.
 * For faster loading, let Windows index the directories you frequently visit. Folders added in any Windows Libraries (such as Documents) are automatically indexed by default.
 * Settings from previous version will be backed up in the application folder but cannot be imported automatically because of the significant changes in the codebase.
 * Windows limits the number of background tracker that needs to keep the folder view updated (to about 20 trackers at a time for an app). If too many tabs are open (say more than 20), the background tracker will not work for new tabs unless older tabs are closed. File/folders views will not be updated automatically in such cases.
 
 **Detailed changelog for this version.**
+
 * Significant improvement in loading speed for indexed folders.
 * Notable improvement in loading non-indexed folders as well.
 * More professional file and folder icons.
@@ -268,6 +309,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.18.x (October 11, 2020)**
+
 * This is one of the major updates to this app since the first release!
 * If icons do not appear as expected in the navigation bar, please restart the app.
 * Added Home Page (This PC) with Libraries, Drives, and Recent Files list.
@@ -287,6 +329,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.17.x (October 6, 2020)**
+
 * Added feature to change theme manually.
 * Changed the selection mode option to checkbox to simplify the option.
 * Updated the view modes sizes.
@@ -303,6 +346,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.16.x (September 28, 2020)**
+
 * Can reorder navigation bar items from the edit navigation items view.
 * Six view types are available now: Simple Lists, Detailed Lists, Small Grids, Medium Grids, Large Grids, and Tiles.
 * Removed preset resize pane icon.
@@ -315,6 +359,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.15.x (September 6, 2020)**
+
 * Ratings option added
 * Purchase option added
 * Single Pane Mode Added
@@ -322,6 +367,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.14.x (September 5, 2020)**
+
 * Added context menu to open pinned navbar item in a new tab.
 * Added context menu to unpin navbar item.
 * Improve tracker reliability to keep the tabs updated.
@@ -338,6 +384,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.13.x (August 30, 2020)**
+
 * Implemented progressive loading by loading 100 items at a time to improve loading folders with a large number of items (>500). Sorting will not work perfectly as the folder loads, but the items will be resorted once everything loads. Thus, users will be able to see some files/folders as loading continues even if not sorted as desired.
 * Improved reliability of quick loading. The previous quick loading option is now used in all cases.
 * Added a loading time logger to measure loading performance.
@@ -349,6 +396,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.12.x (August 23, 2020)**
+
 * Sorting maintained when tab is updated with file content change
 * Tab refresh will work even if an item(s) is selected
 * Zip compression feature added
@@ -359,6 +407,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.11.x (August 19, 2020)**
+
 * Mini notifications added for file operations
 * Added Open with Option
 * Updated shortcuts: F3 will open a file/folder; F4 will show "Open With" dialogue box for files and launch Windows File Explorer for folders
@@ -368,6 +417,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.10.x (August 13, 2020)**
+
 * Added Info Panel (Log Viewer and Progress viewer). Click on the "*" button on the status bar.
 * Log viewer and progress viewer can be collapsed or made visible as desired by clicking on the headers.
 * Progress bar can now be manually closed. More improvements on the progress bar.
@@ -385,6 +435,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.9.x (August 2, 2020)**
+
 * Navigation items can now have category items and subitems
 * Drives automatically added to the navigation items
 * Toolbar items moved to title bar for cleaner look and optimum utilization of screen space
@@ -402,6 +453,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.8.x (July 26, 2020)**
+
 * Tab size fits header text instead of being equal sized.
 * Application wide Compact mode (e.g. more rows of data fits on the screen).
 * Bread crumb trail address bar (i.e., address bar is clickable).
@@ -413,6 +465,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.8.x (July 19, 2020)**
+
 * Customizable navigation bar item list.
 * Added acrylic background for navigation view.
 * Resizable panels. The panel sizes are saved and restored with other settings.
@@ -422,6 +475,7 @@ This is one of the major updates with a significant number of improvements and b
 
 
 **Version 0.7.x**
+
 * Saves and restores session (tabs and settings)
 * Added Navigation Bar with Standard Libraries (document, music, video, pictures)
 * Added Drag and Drop Support
@@ -434,4 +488,3 @@ This is one of the major updates with a significant number of improvements and b
 * Three panel size options
 * Added button for file access privacy setting
 * Lots of bug fixes
-
