@@ -47,6 +47,8 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * Some settings are currently only accessible from config.json file in app directory.
 * You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
 * Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
+* You can launch Shrestha Files from command line or run by typing "file".
+* In the Single Click mode, you can click near the border of the item to select the item instead of opening the item.
 
 
 ### Note
