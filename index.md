@@ -51,5 +51,18 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * In the Single Click mode, you can click near the border of the item to select the item instead of opening the item.
 
 
+### What Others Are Saying About Shrestha Files
+#### English
+(Softpedia.com)[https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml]
+(AlternativeTo.net)[https://alternativeto.net/software/shrestha-files/about/]
+(Softonic.com)[https://shrestha-files-pro.en.softonic.com/]
+(Betanews.com)[https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/]
+(Electrodealpro.com)[https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/]
+
+#### Other Languages
+(Deskmodder.de (German Website)[https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/]
+(Chip.de (German Website))[https://www.chip.de/downloads/Vollversion-Shrestha-Files-Pro_183270094.html]
+(Trainghiemso.vn (Vietnamese Website)[https://trainghiemso.vn/shrestha-files-free/]
+
 ### Note
 This repo does not contain source code for Shrestha Files!
