@@ -62,9 +62,9 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 #### Other Languages
 * [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
 * [Chip.de (German)](https://www.chip.de/downloads/Vollversion-Shrestha-Files-Pro_183270094.html)
+* [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
 * [Trainghiemso.vn (Vietnamese)](https://trainghiemso.vn/shrestha-files-free/)
 * [Techmaniacs.gr (Greek)](https://techmaniacs.gr/shrestha-files-pro-entelos-dorean-apo-ta-9-eyro-poy-kostizei-gia-windows-10/)
-* [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
 
 ### Note
 This repo does not contain source code for Shrestha Files!
