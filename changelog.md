@@ -9,6 +9,23 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.38.x (March 3, 2021)**
+
+* Remembers the last state (expanded or collapsed) of navigation bar items/subitems. However, all the expanded items will be collapsed if the navigation bar itself is collapsed.
+* Updated Settings Editor! Added shortcut Ctrl + P for the new settings editor (preview). For now, the settings icon still launches the context menu version of the settings.
+* Color Themes added in the new settings editor. These color themes are experimental and will be updated in the future. Some color theme might look better in the dark base theme while others might look better in light base theme.
+* Added option to check and install updates in the About Page.
+* Added option to set default view types for bookmarked items in the bookmark editor.
+* Improved the reliability of keyboard accelerators (shortcuts).
+* Added keyboard accelerator Ctrl + H to switch between the single pane mode and dual pane mode. Thanks to Parasec Glenkwyst for the feature request!
+* Clicking in empty space will now unselect selected items in single mode as well.
+* Most recently used (MRU) items that are not available or accessible anymore are removed to avoid continues errors in the future.
+* Updated Glyph (icon) for Pictures library. This will not show up for existing users unless the libraries are removed manually first.
+* Bug fixes.
+
+
+
+
 **Changelog for Version 0.37.x (February 23, 2021)**
 
 * Updated logo.
