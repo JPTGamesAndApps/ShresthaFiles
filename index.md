@@ -7,7 +7,7 @@ filename: index
 
 
 ## Shrestha Files
-![Shrestha Files](/images/Shrestha Files Colors.png)
+![Shrestha Files](/images/ShresthaFilesColors.png)
 
 
 Light Mode | Dark Mode
