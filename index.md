@@ -56,6 +56,7 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 ### What Others Are Saying About Shrestha Files
 #### English
 * [Softpedia.com](https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml)
+* [NXT Windows](https://youtu.be/AtSzg57Pceo)
 * [AlternativeTo.net](https://alternativeto.net/software/shrestha-files/about/)
 * [Softonic.com](https://shrestha-files-pro.en.softonic.com/)
 * [Betanews.com](https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/)
