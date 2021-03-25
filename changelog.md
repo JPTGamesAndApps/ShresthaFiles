@@ -20,7 +20,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 * Free and total spaces in hard drives should be shown more accurately and naturally (i.e. GB, MB, etc. as relevant) now.
 * When switching from the dual pane to single pane mode, the first pane is now selected by default. Thanks to Parasec Glenkwyst for the bug report!
 * Several new settings added in GUI:
-* 
+
 	- Show/hide libraries, devices and drives, and recent files.
 	- Reload drives every time This PC page is loaded.
 	- Enable/disable delete confirmation dialogue before deleting items.
