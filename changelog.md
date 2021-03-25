@@ -13,19 +13,21 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 * Added basic property viewer (right click -> Properties). It currently shows some basic properties of a single selected file/folder or current tab folder.
 * Added experimental extended search mode. Enable it from the settings.
 * Added experimental limited support for MTP devices. Supported operations include creating folder and copying/pasting/deleting files/folders. 
- - Several features are currently unsupported which includes navigating to the parent folder, breadcrumbtrail, and moving (cutting) files/folders out of the MTP storage.
+* 
+ 	- Several features are currently unsupported which includes navigating to the parent folder, breadcrumbtrail, and moving (cutting) files/folders out of the MTP storage.
 
 * Saving settings file and log file should be faster now.	
 * Free and total spaces in hard drives should be shown more accurately and naturally (i.e. GB, MB, etc. as relevant) now.
 * When switching from the dual pane to single pane mode, the first pane is now selected by default. Thanks to Parasec Glenkwyst for the bug report!
 * Several new settings added in GUI:
- - Show/hide libraries, devices and drives, and recent files.
- - Reload drives every time This PC page is loaded.
- - Enable/disable delete confirmation dialogue before deleting items.
- - Default file operation for drag and drop.
- - Default page for new tabs.
- - Default view type for new tab (only applicable when specified path is set as the new tab option).
- - Show/hide cloud status. 
+* 
+ 	- Show/hide libraries, devices and drives, and recent files.
+ 	- Reload drives every time This PC page is loaded.
+ 	- Enable/disable delete confirmation dialogue before deleting items.
+ 	- Default file operation for drag and drop.
+ 	- Default page for new tabs.
+ 	- Default view type for new tab (only applicable when specified path is set as the new tab option).
+ 	- Show/hide cloud status. 
 		
 * Missing tile mode added in the navigation edit page.
 * Other miscellaneous improvements and bug fixes.
