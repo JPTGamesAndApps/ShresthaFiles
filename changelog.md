@@ -13,7 +13,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 * Added basic property viewer (right click -> Properties). It currently shows some basic properties of a single selected file/folder or current tab folder.
 * Added experimental extended search mode. Enable it from the settings.
 * Added experimental limited support for MTP devices. Supported operations include creating folder and copying/pasting/deleting files/folders. 
-* 
+
 	- Several features are currently unsupported which includes navigating to the parent folder, breadcrumbtrail, and moving (cutting) files/folders out of the MTP storage.
 
 * Saving settings file and log file should be faster now.	
