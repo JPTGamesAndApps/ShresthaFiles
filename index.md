@@ -68,7 +68,8 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
 * [Trainghiemso.vn (Vietnamese)](https://trainghiemso.vn/shrestha-files-free/)
 * [Techmaniacs.gr (Greek)](https://techmaniacs.gr/shrestha-files-pro-entelos-dorean-apo-ta-9-eyro-poy-kostizei-gia-windows-10/)
-* [Para-Ordenador (Spanish)](* https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/)
+* [Para-Ordenador (Spanish)](https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/)
+
 
 ### Note
 This repo does not contain source code for Shrestha Files!
