@@ -29,6 +29,15 @@ The AppData is a hidden folder and is not visible from Shrestha Files, but if yo
 
 to load the folder.
 
+
+###Where is log file stored?
+Log file (log.txt) is stored in 
+
+```C:\Users\<UserName>\AppData\Local\Packages\43158JPTGamesandApps.ShresthaFiles-AModernDualPane_pnxmbr0ydfejr\TempState ``` 
+
+Alternately, click on the ```Log Viewer``` -> ```Open Full Log``` to open log file in a text viewer (such as the Notepad).
+
+
 ### All my tabs and bookmarks are gone after updating the app. Can I recover them?
 The tabs, bookmarks, and other settings are stored in config.json file. Sometimes newer version of config file is not compatible with older version of config. When newer versions are installed, the app attempts to update the config file. Sometimes this process might fail, and the config file may be reset. In such cases, you can try to recover tabs, bookmarks, and other settings from backed up config file(s). The LocalState folder will may have other versions of config file such as config.failed.json that was saved when the app failed to read the previous config.json the last time. Similary, config.prior.json should have the version from the last version of the app. config.successful.json stores the last config file that was read successfully. More back ups are stored in the temporary location ```C:\Users\<UserName>\AppData\Local\Packages\43158JPTGamesandApps.ShresthaFiles-AModernDualPane_pnxmbr0ydfejr\LocalCache\Backups``` folder. The contents in this temporary location is deleted by Windows 10 automatically.
 
