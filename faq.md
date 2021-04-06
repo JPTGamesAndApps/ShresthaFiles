@@ -30,7 +30,7 @@ The AppData is a hidden folder and is not visible from Shrestha Files, but if yo
 to load the folder.
 
 
-###Where is log file stored?
+### Where is log file stored?
 Log file (log.txt) is stored in 
 
 ```C:\Users\<UserName>\AppData\Local\Packages\43158JPTGamesandApps.ShresthaFiles-AModernDualPane_pnxmbr0ydfejr\TempState ``` 
