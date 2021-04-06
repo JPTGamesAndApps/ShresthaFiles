@@ -5,7 +5,24 @@ filename: changelog
 --- 
 
 ## Change Log History
+Latest "Free" version is version 0.37.x. "Pro" versions are updated to the latest version posted here.
+
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
+
+
+
+
+**Changelog for Version 0.40.x (April 5, 2021)**
+
+* Show device information in properties in Home Page.
+* Added opacity settings in the Theme Settings Page.
+* Added setting to change open navigation pane length.
+* Readded option to show/hide file operation icons in the title bar.
+* Fixed bug that crashed the app while opening navigation bar.
+* Improved reliability of opening the config file from the log viewer.
+* Other bug fixes and improvements.
+
+
 
 
 **Changelog for Version 0.39.x (March 24, 2021)**
