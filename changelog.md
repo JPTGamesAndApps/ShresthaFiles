@@ -12,6 +12,31 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.41.x (April 13, 2021)**
+
+* Several icons added in context menu. Now all context menu items and sub items have icons.
+	* Copy Path Context Menu
+	* Properties
+	* Compress
+	* Decompress
+	* Sort By: Name/Type/Date/Size
+	* View Types: Simple List/Detailed List/Small Grid/Medium Grid/Large Grid/Tiles
+	* Ascending/Descending.
+* Added settings to select default sorting field and sorting order for new tabs. This will be ignored when previous tab is used to create a new tab.
+* Updated titles of settings categories (e.g. "This PC" instead of "ThisPC").
+* Removed "None" option from tab view types. Consequently, any saved tab view types for bookmarked items will be reset to simple list.
+* Rate menu will disappear from navigation bar after any future rating provided by the users. If you have already provided ratings, you can manully set RatingsProvided to true in the config file to hide the item.
+* The library items in "This PC" page and the navigation bar items (in the sidebar) will always use the view type saved in the corresponding item (in the navigation edit view).
+* As search can take quite long depending on the number of files and folders inside, the loading bar is now always visible in search page while loading items irrespective of the settings to show/hide loading bar.
+* Search page should return pages quicker now (one at a time instead of waiting for more results).
+* Added support for Windows 10 Version 1809 and newer. If you use older versions of Windows (prior than 2004) and encounter any bugs, please let us know.
+* Fixed: Crash while opening settings in some cases.
+* Fixed: Item being pasted while trying to paste path in default path settings.
+* Miscellaneous improvements and bug fixes.
+
+
+
+
 **Changelog for Version 0.40.x (April 5, 2021)**
 
 * Show device information in properties in Home Page.
@@ -26,6 +51,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 **Changelog for Version 0.39.x (March 24, 2021)**
+
 * Settings fully migrated to the new experience. 
 * Added basic property viewer (right click -> Properties). It currently shows some basic properties of a single selected file/folder or current tab folder.
 * Added experimental extended search mode. Enable it from the settings.
