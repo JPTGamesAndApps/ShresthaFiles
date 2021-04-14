@@ -18,7 +18,7 @@ Light Mode | Dark Mode
 
 If you like file managers such as Q-dir, Directory Opus, Total Commander, xplorer2, and XYplorer because they offer tabs and multiple panes but do not like the classic Windows 32 style interface or your Windows 10X device does not support them, then Shrestha Files might be what you are looking for. It offers the convenience of tabs and dual pane in a modern and minimalist interface to supercharge your productivity. [Download it from the Microsoft Store Now](https://www.microsoft.com/en-us/p/shrestha-files/9npnffsv2hqm).
 
-![Video Overview](http://i3.ytimg.com/vi/-LBXu0lzh_Y/maxresdefault.jpg)(https://youtu.be/-LBXu0lzh_Y)
+[![Video Overview](http://i3.ytimg.com/vi/-LBXu0lzh_Y/maxresdefault.jpg)](https://youtu.be/-LBXu0lzh_Y)
 
 ### Keyboard Accelerators (Shortcuts)
 Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
