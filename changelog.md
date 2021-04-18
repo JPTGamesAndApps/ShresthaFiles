@@ -11,6 +11,26 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.43.x (April 17, 2021)**
+
+* Back and forward mouse button "should" finally be working.
+* Added shortcuts to navigate back
+	* Windows + Backspace
+	* Gamepad B button
+* Added GUI to select all, invert selection, and clear selection.
+* Miscellaneous improvements and bug fixes.
+
+
+
+
+**Changelog for Version 0.42.x (April 14, 2021)**
+
+* Translations restored.
+* Tab view type and tab sort by icons should update more reliably.
+* Fixed sticky search/filter text issue after filtering/searching.
+* Miscellaneous improvements and bug fixes.
+
+
 
 **Changelog for Version 0.41.x (April 13, 2021)**
 
