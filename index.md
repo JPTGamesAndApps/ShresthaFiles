@@ -20,6 +20,8 @@ If you like file managers such as Q-dir, Directory Opus, Total Commander, xplore
 
 ### Keyboard Accelerators (Shortcuts)
 Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
+![Keyboard Accelerators](/images/ShresthaFilesShortcuts.gif)
+
 * F1 - About dialog
 * F2 - Rename file/folder
 * F3 - Open file/folder
