@@ -56,5 +56,7 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 This repo does not contain source code for Shrestha Files!
 
 
+![Microsoft Store Rating (Global)](/images/StoreRating05042020.png)
+
 
 [![Get it From Microsoft Store](https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png)](//www.microsoft.com/store/apps/9npnffsv2hqm?cid=storebadge&ocid=badge)
