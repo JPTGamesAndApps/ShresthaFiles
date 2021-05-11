@@ -10,6 +10,21 @@ Latest "Free" version is version 0.42.x. "Pro" versions are updated to the lates
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
 
+**Changelog for Version 0.45.x (May 10, 2021)**
+
+* Improved standard and hero themes.
+* A sample theme is now included in the custom theme folder.
+* Can now change the tab view type by using Control + Mouse Wheel Scroll. Thanks to Kweku for the feature request.
+* Added option to sort items by clicking on the headers in the detailed list tab view mode.	
+* Checkboxes can be turned on/off directly from selection split button inside a tab.
+* Added "Share" option in the context menu for files and folders.
+* Removed edit/pencil icon from the address bar. Thanks to Alur for the feedback!
+* Settings page now shows category titles to better communiate the category information without having to hover over the icons or navigate to the category page.
+* Breadcrumb in the addressbar can be scrolled if the content does not fit the available addressbar width.
+* Improved UI to better fit different window sizes.
+* Added experimental settings to show the number of number of files and folders and a sample list of files and folders in the preview pane. Thanks to Alur for feature request!
+* Miscellaneous bug fixes and improvements.
+
 
 **Changelog for Version 0.44.x (April 25, 2021)**
 
