@@ -10,6 +10,15 @@ Latest "Free" version is version 0.42.x. "Pro" versions are updated to the lates
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
 
+**Changelog for Version 0.46.x (May 12, 2021)**
+
+* Can click and hold control key while dropping items to copy instead of move when default drag and drop option is move. External application such as Windows File Explorer may ask for copy or move option while dropping. Thanks to Parasec Glenkwyst for the feature request!
+* Settings pages also uses compact mode now. This mostly affects the navigation bar items in the settings.
+* Cleaned up the extra About Page (F1). Making it more minimalist.
+* Fixed: Crash resulting from Layout Cycle error.
+* Fixed: Error while trying to puchase the app in some cases.
+
+
 **Changelog for Version 0.45.x (May 10, 2021)**
 
 * Improved standard and hero themes.
