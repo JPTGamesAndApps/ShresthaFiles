@@ -39,6 +39,7 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * [AlternativeTo.net](https://alternativeto.net/software/shrestha-files/about/)
 * [Softonic.com](https://shrestha-files-pro.en.softonic.com/)
 * [Betanews.com](https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/)
+* [Windows Latest News](https://www.windowslatestnews.com/shrestha-files-pro-windows-10-file-explorer/)
 * [Electrodealpro.com](https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/)
 
 #### Other Languages
