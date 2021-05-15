@@ -10,6 +10,16 @@ Latest "Free" version is version 0.42.x. "Pro" versions are updated to the lates
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
 
+**Changelog for Version 0.47.x (May 15, 2021)**
+
+* Tabs can now be dropped to a different pane. However, the destination pane must have at least one tab. Otherwise, a tab cannot be dropped there.
+* Added option to show/hide progress viewer automatically. The progress viewer show/hide button will animate/rotate once (per application launch, not per operation) to indicate the location of the log viewer if user is interested in seeing the file operation progress.
+* Share context menu is visible only when at least one item is selected.
+* Fixed: Bug that loaded replica of tabs in the second pane when opening settings.
+* Other miscellaneous bug fixes and improvements.
+
+
+
 **Changelog for Version 0.46.x (May 12, 2021)**
 
 * Can click and hold control key while dropping items to copy instead of move when default drag and drop option is move. External application such as Windows File Explorer may ask for copy or move option while dropping. Thanks to Parasec Glenkwyst for the feature request!
