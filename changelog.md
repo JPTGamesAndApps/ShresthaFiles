@@ -10,6 +10,23 @@ Latest "Free" version is version 0.42.x. "Pro" versions are updated to the lates
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
 
+
+**Changelog for Version 0.49.x (May 20, 2021)**
+
+ * Another attempt to solve app crash resulting from Layout Cycle bug. If the app is crashing, please email the the developer with some information on when and how the app crashes.
+ * Better analytics to improve bugs identification and fixing.
+ * Updated Chinese Simplified Translation. Thanks to Fairycn!
+
+
+
+ **Changelog for Version 0.48.x (May 17, 2021)**
+
+* Improved extended search UI to match with the tab page.
+* Fixed Ctrl + H not working fully as expected.
+* Other miscellaneous bug fixes and improvements.
+
+
+
 **Changelog for Version 0.47.x (May 15, 2021)**
 
 * Tabs can now be dropped to a different pane. However, the destination pane must have at least one tab. Otherwise, a tab cannot be dropped there.
