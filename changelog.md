@@ -5,7 +5,7 @@ filename: changelog
 --- 
 
 ## Change Log History
-Latest "Free" version is version 0.42.x. "Pro" versions are updated to the latest version posted here.
+The latest "Free" version is version 0.42.x. "Pro" versions are updated to the latest version posted here.
 
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
