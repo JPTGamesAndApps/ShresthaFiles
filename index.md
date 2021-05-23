@@ -13,6 +13,28 @@ filename: index
 
 If you like file managers such as Q-dir, Directory Opus, Total Commander, xplorer2, and XYplorer because they offer tabs and multiple panes but do not like the classic Windows 32 style interface or your Windows 10X device does not support them, then Shrestha Files might be what you are looking for. It offers the convenience of tabs and dual pane in a modern and minimalist interface to supercharge your productivity. [Download it from the Microsoft Store Now](https://www.microsoft.com/en-us/p/shrestha-files/9npnffsv2hqm).
 
+
+### Features
+* Modern and fluent design for Windows 10
+  * Standard colorful themes and custom themes by users
+* Six different view types
+  * Simple list, detailed list, small grid, medium grid, large grid, and tiles
+* Tabbed interface similar to web browsers
+* Standard single pane mode for all users or advanced dual pane mode for power users.
+  * Move tabs from one tab to another
+* Customizable navigation bar with two-level bookmark
+* Built in Zip Archive Creation (Compression) and Extraction (Decompression)
+* Drag and drop support
+  * Drop files and/or folders inside a tab or inside a folder
+* Progress indicator for file operations with detailed logs
+* Automatically saves and restores open tabs, view types per tab, pane size, etc.
+* Quick filter to find items in the current folder or experiemntal search to find items in current folder and sub-folders
+* Properties viewer
+* All the standard features of a File Manager
+  * Copy, Cut, Paste, Rename, Delete, New File, New Folder, etc.
+  * Sort by item name, type, date, and size
+
+
 ### Keyboard Accelerators (Shortcuts)
 Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
 ![Keyboard Accelerators](/images/ShresthaFilesShortcuts.gif)
