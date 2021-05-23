@@ -6,7 +6,7 @@ filename: faq
 
 
 ## Frequently Asked Questions (FAQs)
-### Why does the app crashes for no reason?
+### Why does the app crash for no reason?
 If the app is crashing, please email the log.txt, config.json, device information (such as device model and screen resolution) to the developer (JPTGamesAndApps@Outlook.Com) with steps to reproduce the crash.
 
 ### I ran the app, but the drives do not show up, and clicking libraries load empty folders only. What's wrong?
