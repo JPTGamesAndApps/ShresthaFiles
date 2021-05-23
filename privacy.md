@@ -7,7 +7,7 @@ filename: privacy
 
 ### Privacy Policy
 
-#### We take users privacy very seriously!
+#### We take users' privacy very seriously!
 
 * Windows 10 File System Access
   * The app requires access to Windows 10 File System to execute the app's core functionalities (as a file manager). Users can enable the file access from: ```Windows 10(X) Settings -> Privacy -> File System -> Toggle On File Access for Shrestha Files.```
