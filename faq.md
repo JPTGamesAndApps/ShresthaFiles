@@ -7,7 +7,7 @@ filename: faq
 
 ## Frequently Asked Questions (FAQs)
 ### Why does the app crash for no reason?
-If the app is crashing, please email the log.txt, config.json, device information (such as device model and screen resolution) to the developer (JPTGamesAndApps@Outlook.Com) with steps to reproduce the crash.
+Many versions of Windows 10 operating systems exists, and they run on a wide range of hardware. Sometimes a specific operating system and/or specific hardware might crash the app. If the app is crashing, please email the log.txt, config.json, device information (such as device model and screen resolution) to the developer (JPTGamesAndApps@Outlook.Com) with steps to reproduce the crash.
 
 ### I ran the app, but the drives do not show up, and clicking libraries load empty folders only. What's wrong?
 Make sure that the Windows 10 File Access permission is granted for Shrestha Files. You can either go to
