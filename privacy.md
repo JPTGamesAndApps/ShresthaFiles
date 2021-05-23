@@ -16,7 +16,7 @@ filename: privacy
 
 * Internet Access
   * The app requires access to the internet for the following purposes.
-    * App Update: The app checks for the updated version at the app launch. Checking for the update and downloading the updates require internet access.
+    * App Update: The app checks for an updated version at the app launch. Checking for the update and downloading the updates require internet access.
     * License Check: The app connects to Microsoft Store to check the app purchase status to enable or disable paid features.
     * Microsoft adds telemetry apps to all UWP apps to collect statistics about app such as acquisitions and launches. It also generates dump files when the app crashes which are also transmitted to a Microsoft Server.
     * Microsoft Visual Studio App Center APIs are used to collect crash information and analytics to understand the errors, crashes, and users behaviors within the app. For example, the analytics can enable users to know the most popular colorful theme. It can help the developer understand what led to the app crash.
