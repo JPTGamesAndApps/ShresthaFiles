@@ -27,4 +27,4 @@ The app do not collect any user identifiable information! Below are the relevant
   * The app checks for clipboard inforamtion to enable or disable paste option in the context menu (right click options) and to paste the data (such as file/folder) stored in the clipboard.
 
 
- If users have any further question or concern, please contact the developer at JPTGamesAndApps@Outlook.Com. 
+ If users have any further question or concern, please contact us at JPTGamesAndApps@Outlook.Com. 
