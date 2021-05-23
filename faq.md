@@ -6,8 +6,8 @@ filename: faq
 
 
 ## Frequently Asked Questions (FAQs)
-### Keyboard Accelerators (Shortcuts) does not appear to work. What can I do?
-Sometimes the keyboard accelerators does not work as expected. This is currently a known bug that will be fixed in the future. If the accelerator is not working, click at the empty space in one of the two panes once and the shortcuts should work. If it still does not work, please let the developer know.
+### Why does the app crashes for no reason?
+If the app is crashing, please email the log.txt, config.json, device information (such as device model and screen resolution) to the developer (JPTGamesAndApps@Outlook.Com) with steps to reproduce the crash.
 
 ### I ran the app, but the drives do not show up, and clicking libraries load empty folders only. What's wrong?
 Make sure that the Windows 10 File Access permission is granted for Shrestha Files. You can either go to
@@ -46,26 +46,31 @@ The tabs, bookmarks, and other settings are stored in config.json file. Sometime
 Sometimes the config file (that stores the settings for the app) changes in the newer version. While attempts are made to upgrade the config files automatically, sometimes such process fails and can crash the app. In such case, you might need to rename or move the config.json and its versions in the LocalState folder. Launch the app again and save settings (Ctrl+S) and a new config.json will be created. You can manually import desired previus settings from the existing config files that you just moved or renamed.
 
 ### I edited the config.json, but nothing changed. Did I do something wrong?
-Make sure the app was not running when you edited and saved config.json. The application saves the config.json when closing the app. If you edited the config.json when the application was running, it will be overridden by the values in the memory. Thus, make sure the app is closed while editing the config.json. Then save the config.json, and launch the app afterwards.
+Make sure the app was *not* running when you edited and saved the config.json file. The application saves the config.json when closing the app. If you edited the config.json when the application was running, it will be overridden by the values in the memory. Thus, make sure the app is closed while editing the config.json. Then save the config.json, and launch the app afterwards.
 
 
 ### I edited the config.json. Now I lost all my tabs and bookmarks. What happened?
-If the config.json is edited improperly, the app will fail to read the config.json. In such case, the app will try to read previous version of config.json. If that fails as well, it will rest the settings.
+If the config.json is edited improperly, the app will fail to read the config.json. In such case, the app will try to read previous version of config.json. If that fails as well, it will rest the settings. The app attempts to back up config files that it failed to read and it should be stored in the App folder.
 
+  
 ### Shrestha Files does not show shortcuts, hidden files, and system files, why?
-UWP APIs have platform limitations that do not allow accessing some files such as shortcut (.url, .lnk, etc.), hidden files, and system files. Microsoft needs to allow access to such files before Shrestha Files is able to show such files.
-
+UWP APIs have platform limitations that do not allow accessing some files such as shortcut (.url, .lnk, etc.), hidden files, and system files. Microsoft needs to allow access to such files before Shrestha Files is able to show such files. From one side, this is a limitation for the app. From another side, this could be better option if users would like to make sure they are not manipulating hidden and/or system files.
+  
+  
 ### Shrestha Files failed to open some files, why?
-Some files such as .exe, .bat are considered risky by Microsoft. As such, the UWP APIs cannot launch such files.
+Some files such as .exe and .bat are considered risky by Microsoft. As such, the UWP APIs cannot launch such files.
 
+  
 ### I would like to access my network locations quicker. Is there any way to do so?
 There are two potential methods to ease accessing network locations. 
 1. Type the location (e.g. "\\share\foldername") in the path and navigate to the folder. Now bookmark the path (Ctrl + D) or right click and Pin to Navigation Bar. 
 2. Map the location as a drive from Windows File Explorer. The path will now show up in the list of drives in Shrestha Files!
 
-### Shrestha Files takes takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
-The UWP API needs to access files and folders through a runtime broker provided by Microsoft instead of accessing the files and folders directly. This runtime broker is slower than more direct access (that is used by win32 apps). Microsoft is working to improve the file access speed in Project Reunion. Once Microsoft completes the project, the tab loading speed will improve.
+  
+### Shrestha Files takes a split second extra time to load the files and folders when compared to Windows File Explorers and other classic (win32) file managers, why?
+The UWP apps need to access files and folders through a runtime broker provided by Microsoft instead of accessing the files and folders directly. This runtime broker is slower than more direct access (that is used by win32 apps). Microsoft is working to improve the file access speed in the Project Reunion. Once Microsoft completes the project, the tab loading speed will improve further. Meanwhile the developer is working to improve the tab loading speed using the existing APIs as much as practical and possible.
 
+  
 ### What is the difference between the Pro and Free version?
-The pro version is updated more often than Free version. Some features are available only in Pro version. The free version also shows a prompt requesting to consider purchasing a pro version every time the Free version is launched. Users support is essential to continue improving the app further. This includes providing feedback, sending bug information, requesting new features, and purchasing pro version. While all features requests cannot be fulfilled, the developer will attempt to fulfill features that are requested by more users and that are easier to implement.
+The pro version is updated more often than the Free version. Some features are available only in the Pro version. The free version also shows a prompt requesting to consider purchasing a pro version every time the Free version is launched. Users' support is essential to continue improving the app further. This includes sharing the apps to others, providing feedback, sending bug information, requesting new features, and purchasing the pro version. While all feature requests cannot be fulfilled, the developer will attempt to fulfill features that are requested by more users and that requires less effort to implement.
 
