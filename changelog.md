@@ -10,6 +10,26 @@ The latest "Free" version is version 0.42.x. "Pro" versions are updated to the l
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
 
+**Changelog for Version 0.51.x (June 5, 2021)**
+
+* If Navigation bar shows multiple copies of "This PC", "Libraries", or "Devices and Drives", please right click and remove both copies of those items and restart the app.
+* Added compact mode under the experimental settings. Currently, it affects a few UI elements such as navigation bar item, addressbar, etc.
+* Improved devices and drives loading. If some external devices did not show up in "This PC" page before, it may show up now.
+* Improved drive loading. 
+* Improved tooltips for drives.
+* Improved localization. Thanks to Fairycn for feedback!
+	* Toggle switch "On" and "Off" can also be translated now.
+	* While switching language, different messages will show up depending on whether the translation is completely online or someone helped with the translation.
+* Miscellaneous improvements and bug fixes.
+
+
+
+**Changelog for Version 0.50.x (May 22, 2021)**
+
+* Minor improvement in drag and drop.
+* Minor improvements in analytics for better debugging.
+
+
 
 **Changelog for Version 0.49.x (May 20, 2021)**
 
