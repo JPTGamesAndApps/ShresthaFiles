@@ -9,6 +9,25 @@ The latest "Free" version is version 0.42.x. "Pro" versions are updated to the l
 
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
 
+**Changelog for Version 0.52.x (June 11, 2021)**
+
+* Added minimalist internal viewer (F6) for various file types [Pro Users Only]:
+	* Audio and video - supports formats such as mp3, mp4, and wmv.
+	* Image - supports formats such as png, jpg, and gif.
+	* Plain text - supports formats such as txt, json, and xml.
+	* Pdf - supports pdf.
+* Some notes on the internal viewer:
+	* Users can add other file formats in the config file to see if that is supported. For example, text files that has other file extension can be viewed using the internal viewer.
+	* Audio or video must be paused before closing the window. Otherwise, it will continue to play even after closing the window.
+* Added drag selection. Thanks to Kweku for the feature request.
+	* Now need to triple click instead of double click to navigate to the parent folder.
+* Added option to show thumbnails for libraries, drives, and devices in "This PC" page. Some external devices may not show icons in the thumbnail mode.
+* Added option on the navigation bar to pin the app to the taskbar.
+* Added experimental setting to use a custom background instead of desktop (host) background in for the acrylic effect.
+* Added machine translated Polish translation.
+* Miscellaneous bug fixes and improvements.
+
+
 
 **Changelog for Version 0.51.x (June 5, 2021)**
 
