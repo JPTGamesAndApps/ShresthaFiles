@@ -5,9 +5,29 @@ filename: changelog
 --- 
 
 ## Change Log History
-The latest "Free" version is version 0.42.x. "Pro" versions are updated to the latest version posted here.
+The latest "Free" version is version 0.52.x. "Pro" versions are updated to the latest version posted here.
 
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
+
+
+
+**Changelog for Version 0.53.x (June 17, 2021)**
+
+* Added option for solid background (boxy looks) for items (files, folders, drives, libraries, and recent items).
+* Added functionality to move previous and next images in the internal image viewer.
+* Uses glyph icons for folders and files instead of image icon for reduced memory consumption when actual thumbnail is not used.
+* Improved drag and drop items to navbar:
+	* Can now drop folder(s) inside an existing navigation bar item to create children items (sub-items).
+* Added opacity settings for content area (Tab Page and This PC Page) background.
+* Restructured settings.
+* Improved tab view layout. 
+* Improved tab view cycle order (Ctrl + Mouse Scroll).
+* Item selection method updated with more efficient method. Thanks to Yair for feedback!
+* Unified and more robust method to obtain storagefile for copy/cut/delete/compress.
+* Improved reliability and performance of updating UI with changes in the file system.
+* Added low memory option in config that can significantly reduce memory usage. However, the low memory usage may not perform as well (e.g. thumbnails may not get updated quickly or at all sometimes for some items. Also, operations such as drag and drop will take longer to start.)
+* Fixed: File Access permission was not showing in new installation.
+
 
 **Changelog for Version 0.52.x (June 11, 2021)**
 
