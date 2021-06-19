@@ -71,7 +71,7 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * [Para-Ordenador (Spanish)](https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/)
 * [FutureZone.de (German)](https://www.futurezone.de/digital-life/article231487443/Download-kostenlos-statt-9-Euro-Nur-heute-ist-die-Software-umsonst.html)
 * [Giga.de (German)](https://www.giga.de/news/fuer-windows-10-alternativer-datei-explorer-fuer-kurze-zeit-kostenlos/)
-
+* [Bubera.com (Japanese)](https://bubera.com/pc-software-gadget/about-windows10-shrestha-files-pro/)
 
 ### Note
 This repo does not contain source code for Shrestha Files!
