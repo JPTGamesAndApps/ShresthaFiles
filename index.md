@@ -73,6 +73,12 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * [Giga.de (German)](https://www.giga.de/news/fuer-windows-10-alternativer-datei-explorer-fuer-kurze-zeit-kostenlos/)
 * [Bubera.com (Japanese)](https://bubera.com/pc-software-gadget/about-windows10-shrestha-files-pro/)
 
+
+### Translation
+
+If you would like to translate the app in the language of your choice, instructions are provided [here](https://jptgamesandapps.github.io/ShresthaFiles/translation).
+
+
 ### Note
 This repo does not contain source code for Shrestha Files!
 
