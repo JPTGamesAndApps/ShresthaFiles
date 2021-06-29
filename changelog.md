@@ -27,6 +27,17 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.54.x (June 18, 2021)**
+
+* Improved item layouts. Layouts are more condensed now.
+* Generic icon (Glyph icon) now uses folder with solid color to easily distinguish with the generic icons for folders. The solid color should also blend well with the theme colors.
+* Minor localization improvements.
+* Minor changes in analytics to identify the source of the layout cycle bug.
+* Fixed: Recently used item icons not visible when generic thumbnail was used.
+* Miscellaneous bug fixes.
+
+
+
 **Changelog for Version 0.53.x (June 17, 2021)**
 
 * Added option for solid background (boxy looks) for items (files, folders, drives, libraries, and recent items).
