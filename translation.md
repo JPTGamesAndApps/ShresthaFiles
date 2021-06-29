@@ -1,3 +1,5 @@
+## Translation Instruction
+
 If you would like to translate Shrestha Files Pro (or any other apps) to a language of your choice, you can follow a brief instruction provided below.
 
 1. Obtain a copy of .xlf file from the developer. For Shrestha Files, you can email the developer. If you are the first person to translate Shrestha Files in a specific language, the developer will award you with a license to obtain a copy of Shrestha Files Pro upon completion of the translation and credit the translator in About Page of the app. This is true even if the application has already been machine translated (not by person).
