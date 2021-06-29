@@ -11,6 +11,22 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.55.x (June 28, 2021)**
+
+* Updated various UI components to fit an updated WinUI version. Some UI elements will continue to be updated in the future versions.
+* Added item templates setting to change default sizes of icons for various tab view types. Thanks to FireCube for feedback on the preview!
+* Added option to view previous and next item (such as images) in the internal viewers.
+* Internal audio player now shows music cover art as the background image.
+* More robust method to show File Access Permission dialogue when relevant.
+* Enabled saving settings even if file accesss permission is not granted.
+* Added three levels of performance modes in config file.
+* Fixed: Drives were not loading when "Reload Drives when refreshing This PC" is disabled.
+* Fixed: Theme setting crashes in high contrast mode.
+* Fixed: Layout cycle error is hopefully be fixed.
+* Miscellaneous improvements and bug fixes.
+
+
+
 **Changelog for Version 0.53.x (June 17, 2021)**
 
 * Added option for solid background (boxy looks) for items (files, folders, drives, libraries, and recent items).
