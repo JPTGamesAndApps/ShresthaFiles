@@ -18,7 +18,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 * Added option to view previous and next item (such as images) in the internal viewers.
 * Internal audio player now shows music cover art as the background image.
 * More robust method to show File Access Permission dialogue when relevant.
-* Enabled saving settings even if file accesss permission is not granted.
+* Enabled saving settings even if file access permission is not granted.
 * Added three levels of performance modes in config file.
 * Fixed: Drives were not loading when "Reload Drives when refreshing This PC" is disabled.
 * Fixed: Theme setting crashes in high contrast mode.
