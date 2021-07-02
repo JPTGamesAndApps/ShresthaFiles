@@ -11,6 +11,22 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.56.x (July 2, 2021)**
+
+* Added tabs on top mode. Users can switch to that mode from the general settings.
+	* Known issue: Window must be dragged from a narrow strip on the top right corner of the window left of the caption (close, restore, minimize buttons) in the tabs on top mode. The tab strip footer is set as a draggable region but is not working as expected as of now.
+* Can now drop items to tab headers. 
+	* Known issue: It might take some time before it allows to drop items. (Users can hover over to a tab header only after sometimes before the drop acceptance indicator is shown).	
+* When any alphanumeric key (such as "a" or "3") is pressed in a tab page, it will scroll automatically to an item whose name starts with the pressed alphanumeric character. Non alphanumeric characters are not supported at this time. Thanks to Yair for the feature request!
+* Updated Glyph icon for the address bars. The icon is now visible only in the path edit mode. Thanks to CyberDroid1 for feedback!
+* Improved context menu item visibility toggling.
+* Fixed: Free space in drives were not showing correctly in the navigation bar and/or This PC page. Thanks to CyberDroid1 for the bug report!
+* Fixed: Some minor changes to resolve app crash when navigation pane width slider is changed from the General Settings. Let the developer know if it still crashes.
+* Fixed: Address bar and status bar was not updated as expected in some scenarios. This was intentionally unlinked in earlier versions to investigate the layout cycle error that was crashing the app in some cases.
+* Miscellaneous improvements and bug fixes.
+
+
+
 **Changelog for Version 0.55.x (June 28, 2021)**
 
 * Updated various UI components to fit an updated WinUI version. Some UI elements will continue to be updated in the future versions.
