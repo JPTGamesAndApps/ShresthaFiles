@@ -11,6 +11,16 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.57.x (July 8, 2021)**
+
+* Added ability to launch various file types such as .exe and .bat using an add-in that can be [downloaded from the Store:](https://www.microsoft.com/store/apps/9N9RH89JLDL1).
+* More efficient mechanism to update UI to show item changes (such as added new items or deleted existing items) from all tabs.
+* Fixed: Internal viewer was not opening files when at least one of the files did not have a file extension.
+* Migrated from core window dispatcher to dispatcher queue - should also reduce UI freeze when large number of files are being copied/pasted in any tab.
+* Miscellaneous improvements and bug fixes. Thanks to Alur, CyberDroid1, Parasec, and Fairycn for continuous design feedback, bug reporting, feature request, and translation updates.
+
+
+
 **Changelog for Version 0.56.x (July 2, 2021)**
 
 * Added tabs on top mode. Users can switch to that mode from the general settings.
