@@ -11,6 +11,38 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
+**Changelog for Version 0.58.x (July 21, 2021)**
+
+* Extended search is finalized and is available to all uses by default.
+* Added Settings:
+    * Added a setting to extend or not extend contents to the traditional title bar so that users can use full title bar for dragging the window if desired.
+    * Added settings to show/hide 'Edit Navigation Items' and 'Save Settings' items in the Navigation bar. 
+    * Added a setting to show Properties Viewer by default. The Properties Viewer will continue to show/hide based on the current state of the tab for an existing tab. For tabs created based on another existing tab, the state of the Properties Viewer visibility will be copied from the existing tab.
+* Improved internal text viewer/editor:
+    * Added ability to preview markdown document.
+    * Added ability to edit and save plain text documents.
+    * Added ability to turn on/off word wrap.
+    * Added ability to change font size.
+    * Note: the text editing options are intentionally hidden for now. Right click on the top left side of the address bar to see the options.
+* Improved internal image viewer:
+    * Added option to set image as desktop background.
+    * Added option to zoom in/out.
+    * Added option to rotate image.
+    * Added option to drag image.
+    * Known issue: These features are still experimental and need some improvements. While double tapping works for zooming in, double tapping while holding shift key does not work as reliably. Control + Mouse wheel may not be possible because of CoreWindow limitation.
+* Property viewer now resides inside the Tab Page and Home Page.
+* App tour has been updated to address the changes in the UI.
+* Disabled parallel file processing for file paste operation to improve stability of the UI. DispatcherQueue appears to freeze when it is overwhelmed with the parallel UI update requests from the parallel file processing requests. File operations will be slower than previous versions but will be significantly more stable for file operations involving a large number of items.
+* Search bar next to the address bar is now renamed to filter bar to better communicate the actual functionality of the control.
+* Removed dual pane prompt for new installs. Users can continue to enable/disable the dual pane mode from the settings as before.
+* Fixed: Selection box had some offset compared to the pointer location in the detailed view mode.
+* Items will not be added to the search page when tracker tries to update something.
+* Updated German Translation. Thanks to Parasec!
+* Miscellaneous bug fixes and improvements.
+
+
+
+
 **Changelog for Version 0.57.x (July 8, 2021)**
 
 * Added ability to launch various file types such as .exe and .bat using an add-in that can be [downloaded from the Store:](https://www.microsoft.com/store/apps/9N9RH89JLDL1).
