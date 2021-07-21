@@ -41,7 +41,6 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 ![Keyboard Accelerators](/images/ShresthaFilesShortcuts.gif)
 
 ### Tips and Tricks
-* You can double click on empty area in any tab to navigation to the parent directory (go up a level).
 * You can right click any navigation bar item to open the path in a new tab or delete the item.
 * Some settings are currently only accessible from config.json file in app directory.
 * You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
