@@ -6,7 +6,7 @@ filename: index
 
 
 
-## Shrestha Files (Preview)
+## Shrestha Files
 [![Shrestha Files](/images/ShresthaFilesColors.png)](https://youtu.be/-LBXu0lzh_Y)
 
 
