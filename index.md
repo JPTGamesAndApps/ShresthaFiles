@@ -12,24 +12,26 @@ filename: index
 
 ![Light Mode](images/LightMode.png)
 
-If you like file managers such as Q-dir, Directory Opus, Total Commander, xplorer2, and XYplorer because they offer tabs and multiple panes but do not like the classic Windows 32 style interface or your Windows 10X device does not support them, then Shrestha Files might be what you are looking for. It offers the convenience of tabs and dual pane in a modern and minimalist interface to supercharge your productivity. [Download it from the Microsoft Store Now](https://www.microsoft.com/en-us/p/shrestha-files/9npnffsv2hqm). Dozens of users from across the globe has rated the app with 3.9 out of 5 as of May 2021.
+If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! [Download it from the Microsoft Store Now](https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub).
 
 
 ### Features
-* Modern and fluent design for Windows 10
+* Fluent design matching the look and feel of Windows 10 and Windows 11
   * Standard colorful themes and custom themes by users
+* Tabbed interface similar to web browsers
+  * Move tabs from one pane to another
+* Standard single pane mode for all users or advanced dual pane mode for power users
+* Internal viewers for text, image, audio, and video files
 * Six different view types
   * Simple list, detailed list, small grid, medium grid, large grid, and tiles
-* Tabbed interface similar to web browsers
-* Standard single pane mode for all users or advanced dual pane mode for power users.
-  * Move tabs from one tab to another
-* Customizable navigation bar with two-level bookmark
-* Built in Zip Archive Creation (Compression) and Extraction (Decompression)
+* Customizable navigation bar with two-level bookmarks
+* Built in Zip and Unzip feature
 * Drag and drop support
-  * Drop files and/or folders inside a tab or inside a folder
+  * Drop files and/or folders inside a tab or inside a folder within a tab
 * Progress indicator for file operations with detailed logs
 * Automatically saves and restores open tabs, view types per tab, pane size, etc.
-* Quick filter to find items in the current folder or experiemntal search to find items in current folder and sub-folders
+* Search to find items in the current folder and sub-folders
+* Quick filter to find items in the current folder
 * Properties viewer
 * All the standard features of a File Manager
   * Copy, Cut, Paste, Rename, Delete, New File, New Folder, etc.
@@ -37,16 +39,17 @@ If you like file managers such as Q-dir, Directory Opus, Total Commander, xplore
 
 
 ### Keyboard Accelerators (Shortcuts)
-Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
+
 ![Keyboard Accelerators](/images/ShresthaFilesShortcuts.gif)
 
 ### Tips and Tricks
-* You can right click any navigation bar item to open the path in a new tab or delete the item.
+* Users can double click an empty area in a tab to browse the parent directory
+* Users can right click any navigation bar item to open the path in a new tab or delete the item.
 * Some settings are currently only accessible from config.json file in app directory.
-* You can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
+* Users can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
 * Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
 * You can launch Shrestha Files from command line or run by typing "file".
-* In the Single Click mode, you can click near the border of the item to select the item instead of opening the item.
+* In the Single Click mode, users can click near the border of the item to select the item instead of opening the item.
 
 
 ### What Others Are Saying About Shrestha Files
@@ -58,6 +61,7 @@ Note: If keyboard accelerators does not work sometimes, click inside any tab and
 * [Betanews.com](https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/)
 * [Windows Latest News](https://www.windowslatestnews.com/shrestha-files-pro-windows-10-file-explorer/)
 * [Electrodealpro.com](https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/)
+
 
 #### Other Languages
 * [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
