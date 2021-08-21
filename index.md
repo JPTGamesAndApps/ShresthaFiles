@@ -7,10 +7,12 @@ filename: index
 
 
 ## Shrestha Files
-[![Shrestha Files](/images/ShresthaFilesColors.png)](https://youtu.be/-LBXu0lzh_Y)
+[comment]: <> ([![Shrestha Files](/images/ShresthaFilesColors.png)](https://youtu.be/-LBXu0lzh_Y))
+
+[![Shrestha Files](/images/Launch2021/ColorfulShresthaFiles.png)](https://youtu.be/-LBXu0lzh_Y)
 
 
-![Light Mode](images/LightMode.png)
+[comment]: <> (![Light Mode](images/LightMode.png))
 
 If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! [Download it from the Microsoft Store Now](https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub).
 
