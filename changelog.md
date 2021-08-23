@@ -5,9 +5,130 @@ filename: changelog
 --- 
 
 ## Change Log History
-The latest "Free" version is version 0.52.x. "Pro" versions are updated to the latest version posted here.
+The latest "Free" version is version 0.90.x. "Pro" versions are updated to the latest version posted here.
 
-Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users. The version 0.37.x, for example, is released to only 10% of the users at the beginning. If you check for the updates in the Microsoft Store, you should be able to update the app to the latest version.
+Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users.
+
+
+
+**Changelog for Version 1.0 (August 18, 2021)** 
+
+* Thank you everyone for using Shrestha Files Pro throughout the journey! Today, we are releasing Shrestha Files Pro version 1.0. This is a huge milestone and by no means the end of the journey! If you have any feedback or bug reports, please reach out to the developer.
+
+
+
+
+**Changelog for Version 0.64.x (August 16, 2021)** 
+
+* Fixed: Navigation editor crashes when path is null.
+* Minor improvement.
+
+
+
+
+**Changelog for Version 0.63.x (August 16, 2021)**
+
+* Miscellaneous improvements and bug fixes.
+* Fixed: Scrolls to an item when typing something while content dialog is open.
+
+
+
+**Changelog for Version 0.62.x (August 15, 2021)**
+
+* Image viewer should load image at the center now.
+	* Known Issues: Zooming is not proper after an image is rotated.
+* Miscellaneous improvements and bug fixes.
+* Accessibility improvements.
+
+
+
+**Changelog for Version 0.61.x (August 12, 2021)**
+
+* Updated language list in the settings.
+* Added feature to remove a single recent file from This PC page.
+* Added feature to set image as an app background from internal image viewer.
+* Addressbar improvement: Clicking an addressbar now highlights the path text.
+	* Known issue: Context menu does not work as expected in the addressbar path mode.
+* Fixed: Search suggestion selection copies now copies file name instead of detail.
+* Fixed: Context menu did not show up in detailed tab view mode inside an empty folder.
+* Fixed: The internal PDF viewer did not launch when an item without extension exists in the current folder.
+* Typing a key will set focus on relevant item as well, not just scroll to the item.
+* MTP improvements
+	* Fixed: Copy/paste and drag and drop should work again with some limitations.
+	* Known Issues
+		* New file cannot be created in MTP devices.
+		* Dropping an item from MTP device to other location will not refresh the MTP folder (move operation).
+* Progress bar in home page upgraded to MUXC version.
+* Miscellaneous improvements and bug fixes.
+
+
+
+
+**Changelog for Version 0.60.x (August 10, 2021)**
+
+* Added new machine translated languages.
+* Pressing Enter after entering keyword in the search/filter box now executes extended search.
+* Added search icon to enable accessing search UI in the touch mode.
+* Content dialogs (such as rename dialog) now has semi-transparent background.
+* Added option to clear recent items in This PC Page.
+* Tabs are not equal width instead of SizeToContent.
+* Added option for parallel file operation.
+	* Known Issue: Sometimes UI may freeze while performing a large file operation in parallel.
+* Improved Internal Viewers:
+	* Image Viewer: 
+		* Added Shortcuts:
+			* Ctrl + - -> Zoome out
+			* Ctrl + + -> Zoome in		
+			* Ctrl + R -> Rotate Clockwise
+			* Ctrl + Shift + R -> Rotate Counter Clockwise
+			* Ctrl + W -> Set as Desktop Wallpaper
+		* Known Issue: The first loaded image does not align to center of the canvas.
+	* Text Viewer:
+		* Added shortcuts:
+			* Ctrl + E -> Toggle read/edit mode
+			* Ctrl + S -> Save Edits
+			* Ctrl + W -> Toggle word wrap
+			* Ctrl + M -> Turn on/off markdown preview
+			* Ctrl + - -> Decrease font size
+			* Ctrl + + -> Increase font size		
+	* Audio and Video Viewers:
+		* Playback pauses/stops when the window is closed.
+* Improved properties viewer positioning in the detailed tab view  mode.
+* Miscellaneous improvements and bug fixes.
+* Thanks to Alur for a number of UI feedback.
+
+
+
+
+**Changelog for Version 0.59.x (July 27, 2021)**
+
+* Added option to select the Navigation Transition (animation).
+* Added context menu in This PC page:
+	* Open Library, Drive, or Recent Item.
+	* Open Library or Drive in new tab.
+	* Show basic properties of Library, Drive, or Recent item.
+	* Refresh This PC page.
+* Added option to delete files/folders permanently. Note that even if this is disabled, files may be deleted permanently (for example files from an external storage devices).
+* Various internal viewers (text, image, audio, video, and pdf viewers) can be individually set as default to open relevant files.
+* Image viewer improvements:
+	* Can now zoom in/out with Ctrl + Mouse Wheel Scroll.
+* Only one warning is retained when switching themes multiple times so that user needs to dismiss only the last one if user choose not to restart the app.
+* App tour follows the app theme now.
+* Purchase option in About Settings is now hidden from Settings if the app is already purchased.
+* Selection box now has solid border instead of dashed stroke to follow File Explorer's style.
+* Fixed: Double tap in empty area to navigate to the parent folder works again.
+* Fixed: Default DragAndDrop checkbox was not getting selected automatically in the settings based on the user preference.
+* Fixed: Selected language should be shown in the Miscellaneous settings now.
+* Several improvements to address design feedback from Alur, CyberDroid1, and Parasec that includes:
+	* Background color of disabled buttons are now set to the transparent color.
+	* Hyperlink and markdown hyperlink foreground colors are updated to use regular text color to ensure readability.
+	* Property values in the Properties viewer uses TextBlock now so that it does not appear as input field.
+	* Drive space indicator (Progress bar) in This PC page now have round edges.
+	* Fixed: Sliders were looking different in various settings pages.
+	* Log viewer is now hidden by default. Log viewer will record and show logs only if log viewer button is enabled. 
+	* Initial tab loading notification is now replaced by a less intrusive progress ring.
+* Miscellaneous improvements and bug fixes.
+
 
 
 
