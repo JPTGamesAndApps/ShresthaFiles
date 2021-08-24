@@ -8,10 +8,10 @@ filename: index
 
 ## Shrestha Files
 
-[![Shrestha Files](/images/Launch2021/ColorfulShresthaFilesPro.png)](https://youtu.be/-LBXu0lzh_Y)
+[![Shrestha Files](/images/Launch2021/ColorfulShresthaFilesPro.png)](https://youtu.be/fOKNh0Mdl_I)
 ![Shrestha Files](/images/Launch2021/ShresthaFilesProGuideAnimated.gif)
 
-If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! [Download it from the Microsoft Store Now](https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub).
+If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! [Download it from the Microsoft Store Now](https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub). Watch a video overview [here](https://youtu.be/fOKNh0Mdl_I).
 
 
 ### Features
@@ -36,6 +36,12 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
   * Copy, Cut, Paste, Rename, Delete, New File, New Folder, etc.
   * Sort by item name, type, date, and size
 
+
+### Speed Test Against Windows File Explorer
+* [Windows File Explorer and Notepad vs Shrestha Files and Internal Text Viewer](https://youtu.be/V09G9u-RAR4)
+* [Windows File Explorer and Photos vs Shrestha Files and Internal Photo Viewer](https://youtu.be/oFsOza1OU0M)
+* [Windows File Explorer and Movies & TV vs Shrestha Files Pro and Internal Video Viewer](https://youtu.be/ZVTDLhgIqWg)
+* [Windows File Explorer and VLC vs Shrestha Files and Internal Video Viewer](https://youtu.be/gTBngQdT3Gw)
 
 ### Keyboard Accelerators (Shortcuts)
 
