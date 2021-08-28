@@ -11,7 +11,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
-**Changelog for Version 1.0 (August 18, 2021)** 
+**Changelog for Version 1.0 (September 1, 2021)** 
 
 * Thank you everyone for using Shrestha Files Pro throughout the journey! Today, we are releasing Shrestha Files Pro version 1.0. This is a huge milestone and by no means the end of the journey! If you have any feedback or bug reports, please reach out to the developer.
 
