@@ -95,7 +95,6 @@ If you would like to translate the app in the language of your choice, instructi
 ### Note
 This repo does not contain source code for Shrestha Files!
 
- &nbsp; | &nbsp;
 ------ | ------
 [![Get it From Microsoft Store](https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png)](//www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub) | ![Microsoft Store Rating (Global)](/images/MicrosoftStoreRating09042021.png)
 
