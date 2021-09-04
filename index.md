@@ -66,12 +66,14 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [Betanews.com](https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/)
 * [Windows Latest News](https://www.windowslatestnews.com/shrestha-files-pro-windows-10-file-explorer/)
 * [Electrodealpro.com](https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/)
+* [NsaneForums.Com](https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/)
 
 
 #### Other Languages
 * [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
 * [Chip.de (German)](https://www.chip.de/downloads/Vollversion-Shrestha-Files-Pro_183270094.html)
 * [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
+* [WindowsForum.Kr (Korean)](https://windowsforum.kr/data/16705506)
 * [Mahmoud Imran - Video (Arabic)](https://youtu.be/0h9MDohkjEE)
 * [Descargas (Spanish)](https://www.descargas.com/app/shrestha-files-pro/windows/)
 * [Trainghiemso.vn (Vietnamese)](https://trainghiemso.vn/shrestha-files-free/)
@@ -80,7 +82,9 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [FutureZone.de (German)](https://www.futurezone.de/digital-life/article231487443/Download-kostenlos-statt-9-Euro-Nur-heute-ist-die-Software-umsonst.html)
 * [Giga.de (German)](https://www.giga.de/news/fuer-windows-10-alternativer-datei-explorer-fuer-kurze-zeit-kostenlos/)
 * [Bubera.com (Japanese)](https://bubera.com/pc-software-gadget/about-windows10-shrestha-files-pro/)
-
+* [Hcl.hr (Croatian)](https://www.hcl.hr/vijest/besplatno-se-dijeli-solidna-alternativa-windowsovom-file-exploreru-176332/)
+* [01Net.Com (French)](https://www.01net.com/telecharger/windows/Utilitaire/gestion_de_fichier/fiches/157602.html)
+* [Zyzoom.Net (Arabic)](https://forum.zyzoom.net/threads/367759/)
 
 ### Translation
 
