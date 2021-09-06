@@ -86,6 +86,7 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [Hcl.hr (Croatian)](https://www.hcl.hr/vijest/besplatno-se-dijeli-solidna-alternativa-windowsovom-file-exploreru-176332/)
 * [01Net.Com (French)](https://www.01net.com/telecharger/windows/Utilitaire/gestion_de_fichier/fiches/157602.html)
 * [Zyzoom.Net (Arabic)](https://forum.zyzoom.net/threads/367759/)
+* [Haohe.Fun (Chinese Simplified)](http://haohe.fun/2021/09/win10shrestha-files%EF%BC%9A%E9%80%82%E7%94%A8%E4%BA%8E-windows-10-%E5%92%8C-windows-11-%E8%AE%BE%E5%A4%87%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8F%8C%E7%AA%97%E6%A0%BC%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/)
 
 ### Translation
 
