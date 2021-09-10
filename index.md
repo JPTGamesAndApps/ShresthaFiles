@@ -2,6 +2,8 @@
 title: Home
 layout: default
 filename: index
+[//]: # (https://www.chip.de/downloads/Vollversion-Shrestha-Files-Pro_183270094.html)
+
 --- 
 
 
@@ -74,7 +76,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [Los Ilusionistas De La Tecnología - Video (Spanish)](https://youtu.be/Fk84PkAQ0Eg)
 * [Master Tutos 93 - Video (Spanish)](https://www.youtube.com/watch?v=z4RhHVN2FfY)
 * [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
-* [//]: # (This may be the most platform independent comment [Chip.de (German)](https://www.chip.de/downloads/Vollversion-Shrestha-Files-Pro_183270094.html))
 * [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
 * [WindowsForum.Kr (Korean)](https://windowsforum.kr/data/16705506)
 * [Mahmoud Imran - Video (Arabic)](https://youtu.be/0h9MDohkjEE)
