@@ -77,6 +77,7 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [Master Tutos 93 - Video (Spanish)](https://www.youtube.com/watch?v=z4RhHVN2FfY)
 * [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
 * [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
+* [KData.Vn (Vietnamese)](https://blog.kdata.vn/shrestha-files-pro-dang-mien-phi-cho-nguoi-dung-windows-10-5839/)
 * [WindowsForum.Kr (Korean)](https://windowsforum.kr/data/16705506)
 * [Mahmoud Imran - Video (Arabic)](https://youtu.be/0h9MDohkjEE)
 * [Descargas (Spanish)](https://www.descargas.com/app/shrestha-files-pro/windows/)
