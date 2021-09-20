@@ -10,6 +10,36 @@ The latest "Free" version is version 0.90.x. "Pro" versions are updated to the l
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users.
 
 
+**Changelog for Version 1.4 (September 19, 2021)**
+
+* This is a general release that includes cumulative updates from previous beta releases.
+* Translation issues fixed.
+
+
+
+**Changelog for Version 1.3 (September 8, 2021) - (Beta Release)**
+
+* Fixed issue that files does not open sometimes (when any file in the folder does not have an extension)
+
+
+
+**Changelog for Version 1.2 (September 6, 2021) - (Beta Release)** 
+
+* Updated Russian translation. Thanks to Alexander (DeGekko)!
+* Properties viewer updated to use narrower width (property title above the property value).
+* Added ability to retrieve total folder size and item counts (deep) in properties viewer. 
+* Added options in config.json
+	- ShowFileOperationIconsInsideTab: show/hide file operation icons inside the tabs. This is primarily for tabsontop mode off, i.e. the legacy interface.
+	- LoadItemSizeDeepInProperties and LoadItemCountDeepInProperties: to load the number of files and folders inside a folder and their total size
+		- will be very slow process for larger folders (such as ""C:\"). User experience will not be optimal because of the speed limitations of Storage API for UWP.
+	- PropertiesPaneWidth: set the size of properties viewer pane in pixels.
+* Added option to send path as a command line parameter. Users should be able to launch the folder or add the folder to current instance of the app.
+	- The syntax is "file.exe <path>". For example, ""file.exe C:\"
+	- The tab with the supplied path will be added to the list of previously saved/open tabs.
+* App tour should show up only once now.
+
+
+
 
 **Changelog for Version 1.0 (September 1, 2021)** 
 
