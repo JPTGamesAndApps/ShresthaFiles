@@ -82,6 +82,7 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 * [Mahmoud Imran - Video (Arabic)](https://youtu.be/0h9MDohkjEE)
 * [Descargas (Spanish)](https://www.descargas.com/app/shrestha-files-pro/windows/)
 * [Trainghiemso.vn (Vietnamese)](https://trainghiemso.vn/shrestha-files-free/)
+* [Freesoft.ru (Russian)](https://freesoft.ru/windows/shrestha-files)
 * [Techmaniacs.gr (Greek)](https://techmaniacs.gr/shrestha-files-pro-entelos-dorean-apo-ta-9-eyro-poy-kostizei-gia-windows-10/)
 * [Para-Ordenador (Spanish)](https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/)
 * [FutureZone.de (German)](https://www.futurezone.de/digital-life/article231487443/Download-kostenlos-statt-9-Euro-Nur-heute-ist-die-Software-umsonst.html)
