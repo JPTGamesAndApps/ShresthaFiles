@@ -98,6 +98,14 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 If you would like to translate the app in the language of your choice, instructions are provided [here](https://jptgamesandapps.github.io/ShresthaFiles/translation).
 
 
+### Thoughts that every one have about Windows File Explorer in Windows 11
+* Windows File Explorer Alternative
+* Windows File Explorer Not Responding
+* Windows File Explorer Slow
+* Windows File Explorer Tabs
+* Windows File Explorer Not Opening
+* Get Help with File Explorer in Windows
+
 ### Note
 This repo does not contain source code for Shrestha Files!
 
