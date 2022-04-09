@@ -10,6 +10,57 @@ The latest "Free" version is version 0.90.x. "Pro" versions are updated to the l
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users.
 
 
+
+**Changelog for Version 1.12 (April 8, 2022)**
+
+* Fixed: Markdown preview with links were not working in the Internal Text Viewer and other locations.
+
+
+
+**Changelog for Version 1.11 (February 22, 2022)**
+
+* Fixed: Unable to save the default drag and drop operation as copy.
+
+
+
+**Changelog for Version 1.10 (October 11, 2021)**
+
+* Full change log in settings is now visible by default - so that Windows 11 users will see the Full Changelog if Recent Changelog with links are not visible.
+* Improved sanity check that prevents copying a folder inside multi-level subfolder of the parent folder.
+
+
+
+**Changelog for Version 1.9 (October 10, 2021)**
+
+* Improved Properties Viewer to display various item-type-specific properties such as image dimensions, duration, etc. for music, image, and video files. Some properties might be empty.
+* Properties Viewer shows date time instead of date time offset.
+* Default properties viewer width decreased to 250 (from 300).
+* Added config value to set item thumbnail size in properties pane (propertiesThumbnailSize). Default thumbnail size decreased to display more properties without scrolling.
+* Changelog page (shown after update) and shortcut list page (Ctrl + K) can now be dismissed with Escape key or clicking outside the prompt.
+* Added config option SelectItemGridDisablesShortcuts to enable navigating by keyboard to some degree. This enables selecting an item with keyboard right after navigating to a folder. However, it also blocks (disables) other shortcuts such as Ctrl+K and Alt+Left. This option is disabled by default.
+* Added Serbian-Latin (sr-Latn) and Serbian-Cyrillic (sr-Cyrl) translation. Thanks to Bzzrak!
+* Updated Italian translation. Thanks to Alessandro!
+
+
+
+**Changelog for Version 1.8 (October 4, 2021)**
+
+* Updated German translation. Thanks to Parasec!
+
+
+
+**Changelog for Version 1.7 (October 3, 2021)**
+
+* Updated Italian translation. Thanks to Alessandro!
+
+
+
+**Changelog for Version 1.6 (September 29, 2021)**
+
+* Updated Spanish translation. Thanks to David Cano!
+
+
+
 **Changelog for Version 1.4 (September 19, 2021)**
 
 * This is a general release that includes cumulative updates from previous beta releases.
