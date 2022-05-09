@@ -22,4 +22,4 @@ Windows is well known for backward compatibility. You can still run majority of 
 
 In the next article, I will try to pinpoint some of the features that a modern File explorer should offer. These should be useful whether Microsoft or other third-parties are developing a new File Explorer or updating an existing ones.
 
-Joseph Shrestha
+Shrestha
