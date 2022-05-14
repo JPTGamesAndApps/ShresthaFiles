@@ -430,38 +430,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
       </div>
 </div>
 
-#### English
-* [Softpedia.com](https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml)
-* [NXT Windows](https://youtu.be/AtSzg57Pceo)
-* [AlternativeTo.net](https://alternativeto.net/software/shrestha-files/about/)
-* [Softonic.com](https://shrestha-files-pro.en.softonic.com/)
-* [Betanews.com](https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/)
-* [Windows Latest News](https://www.windowslatestnews.com/shrestha-files-pro-windows-10-file-explorer/)
-* [Electrodealpro.com](https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/)
-* [NsaneForums.Com](https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/)
-
-
-#### Other Languages
-* [Chip.de - Video (German)](https://www.chip.de/news/Explorer-Alternative-fuer-Windows-10-Diese-10-Euro-App-gibt-es-aktuell-gratis_183270871.html)
-* [Los Ilusionistas De La Tecnología - Video (Spanish)](https://youtu.be/Fk84PkAQ0Eg)
-* [Master Tutos 93 - Video (Spanish)](https://www.youtube.com/watch?v=z4RhHVN2FfY)
-* [Deskmodder.de (German)](https://www.deskmodder.de/blog/2021/01/31/shrestha-files-pro-als-windows-10-datei-explorer-app-noch-kurzzeitig-kostenlos/)
-* [Chip.cz (Czech)](https://www.chip.cz/novinky/software/prakticka-alternativa-spravce-souboru-pro-windows-10-je-docasne-k-dispozici-zdarma/)
-* [KData.Vn (Vietnamese)](https://blog.kdata.vn/shrestha-files-pro-dang-mien-phi-cho-nguoi-dung-windows-10-5839/)
-* [WindowsForum.Kr (Korean)](https://windowsforum.kr/data/16705506)
-* [Mahmoud Imran - Video (Arabic)](https://youtu.be/0h9MDohkjEE)
-* [Descargas (Spanish)](https://www.descargas.com/app/shrestha-files-pro/windows/)
-* [Trainghiemso.vn (Vietnamese)](https://trainghiemso.vn/shrestha-files-free/)
-* [Freesoft.ru (Russian)](https://freesoft.ru/windows/shrestha-files)
-* [Techmaniacs.gr (Greek)](https://techmaniacs.gr/shrestha-files-pro-entelos-dorean-apo-ta-9-eyro-poy-kostizei-gia-windows-10/)
-* [Para-Ordenador (Spanish)](https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/)
-* [FutureZone.de (German)](https://www.futurezone.de/digital-life/article231487443/Download-kostenlos-statt-9-Euro-Nur-heute-ist-die-Software-umsonst.html)
-* [Giga.de (German)](https://www.giga.de/news/fuer-windows-10-alternativer-datei-explorer-fuer-kurze-zeit-kostenlos/)
-* [Bubera.com (Japanese)](https://bubera.com/pc-software-gadget/about-windows10-shrestha-files-pro/)
-* [Hcl.hr (Croatian)](https://www.hcl.hr/vijest/besplatno-se-dijeli-solidna-alternativa-windowsovom-file-exploreru-176332/)
-* [01Net.Com (French)](https://www.01net.com/telecharger/windows/Utilitaire/gestion_de_fichier/fiches/157602.html)
-* [Zyzoom.Net (Arabic)](https://forum.zyzoom.net/threads/367759/)
-* [Haohe.Fun (Chinese Simplified)](http://haohe.fun/2021/09/win10shrestha-files%EF%BC%9A%E9%80%82%E7%94%A8%E4%BA%8E-windows-10-%E5%92%8C-windows-11-%E8%AE%BE%E5%A4%87%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8F%8C%E7%AA%97%E6%A0%BC%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/)
 
 ### Translation
 
