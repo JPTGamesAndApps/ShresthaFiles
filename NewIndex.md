@@ -70,7 +70,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 
 
 ### What Others Are Saying About Shrestha Files
-
     <div class="container">
         <h4>Reviews (English)</h4>     
         <div class="card-body">
@@ -81,9 +80,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         title="Softpedia"
                         src="./img/logos/Softpedia.png" 
                         alt="Softpedia Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Softpedia</p>
-                        </div> -->
                     </div>
                 </a> 
 
@@ -93,9 +89,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/NXTWindows.jpg" 
                         title="NXT Windows"
                         alt="NXT Windows Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">NXT Windows</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -105,9 +98,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/AlternativeTo.png" 
                         title="AlternativeTo"
                         alt="AlternativeTo Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">AlternativeTo</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -117,9 +107,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Softonic.png" 
                         title="Softonic"
                         alt="Softonic Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Softonic</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -129,9 +116,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/BetaNews.png" 
                         title="Beta News"
                         alt="Beta News Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Beta News</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -141,9 +125,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/WindowsLatestNews.png" 
                         title="Windows Latest News"
                         alt="Windows Latest News Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Windows Latest News</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -153,9 +134,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/ElectroDealPro.png" 
                         title="Electron Deal Pro"
                         alt="Electron Deal Pro Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Electro Deal Pro</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -165,9 +143,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/NSaneForums.png" 
                         title="Nsane Forum"
                         alt="Nsane Forum Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Nsane Forum</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -187,9 +162,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         title="Chip.de - Video (German)"
                         src="./img/logos/int/ChipDe.png" 
                         alt="Chip.de Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Chip.de - Video (German)</p>
-                        </div> -->
                     </div>
                 </a> 
 
@@ -199,9 +171,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/LosIllusionistas.jpg" 
                         title="Los Ilusionistas De La Tecnología - Video (Spanish)"
                         alt="Los Ilusionistas De La Tecnología Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Los Ilusionistas De La Tecnología - Video (Spanish)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -211,9 +180,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/MasterTutos93.jpg" 
                         title="Master Tutos 93 - Video (Spanish)"
                         alt="Master Tutos 93 Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Master Tutos 93 - Video (Spanish)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -223,9 +189,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/Deskmodder.png" 
                         title="Deskmodder.de (German)"
                         alt="Deskmodder.de Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Deskmodder.de (German)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -235,9 +198,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/ChipCz.png" 
                         title="Chip.cz (Czech)"
                         alt="Chip.cz Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Chip.cz (Czech)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -247,9 +207,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/Kdata.png" 
                         title="KData.Vn (Vietnamese)"
                         alt="KData.Vn Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">KData.Vn (Vietnamese)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -259,9 +216,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/WindowsForum.png" 
                         title="WindowsForum.Kr (Korean)"
                         alt="WindowsForum Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">WindowsForum.Kr (Korean)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -271,9 +225,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/MohmoudImran.png" 
                         title="Mahmoud Imran - Video (Arabic)"
                         alt="Mahmoud Imran Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Mahmoud Imran - Video (Arabic)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -284,9 +235,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Descargas.png" 
                         title="Descargas (Spanish)"
                         alt="Descargas Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Descargas (Spanish)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -297,9 +245,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Trainghiemso.png" 
                         title="Trainghiemso.vn (Vietnamese)"
                         alt="Trainghiemso.vn Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Trainghiemso.vn (Vietnamese) - Video (Arabic)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -310,9 +255,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/FreeSoft.png" 
                         title="Freesoft.ru (Russian)"
                         alt="Freesoft.ru Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Freesoft.ru (Russian)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -323,9 +265,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Techmaniacs.png" 
                         title="Techmaniacs.gr (Greek)"
                         alt="Techmaniacs.gr Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Techmaniacs.gr (Greek)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -335,9 +274,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Para-Ordenador.png" 
                         title="Para-Ordenador (Spanish)"
                         alt="Para-Ordenador Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Para-Ordenador (Spanish)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -348,9 +284,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/FutureZone.png" 
                         title="FutureZone.de (German)"
                         alt="FutureZone.de Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">FutureZone.de (German)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -361,9 +294,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Giga.png" 
                         title="Giga.de (German)"
                         alt="Giga.de Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Giga.de (German)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -373,9 +303,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Bubera.png" 
                         title="Bubera.com (Japanese)"
                         alt="Bubera.com (Japanese) Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Bubera.com (Japanese)</p>
-                        </div> -->
                     </div>
                 </a>
 
@@ -384,9 +311,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/HCL.png" 
                         title="Hcl.hr (Croatian)"
                         alt="Hcl.hr (Croatian)"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Hcl.hr (Croatian)</p>
-                        </div> -->
                     </div>
                 </a>
                 
@@ -395,9 +319,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/01Net.png" 
                         title="01Net.Com (French)"
                         alt="01Net.Com (French) Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">01Net.Com (French)</p>
-                        </div> -->
                     </div>
                 </a>
                 
@@ -406,9 +327,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Zyzoom.png" 
                         title="Zyzoom.Net (Arabic)"
                         alt="Zyzoom.Net (Arabic)Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Zyzoom.Net (Arabic)</p>
-                        </div> -->
                     </div>
                 </a>
                 
@@ -417,9 +335,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
                         <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/haohe.png" 
                         title="Haohe.Fun (Chinese Simplified)"
                         alt="Haohe.Fun (Chinese Simplified) Logo"/>
-                        <!-- <div class="card-body">
-                            <p class="card-text">Haohe.Fun (Chinese Simplified)</p>
-                        </div> -->
                     </div>
                 </a>
             </div>
