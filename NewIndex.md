@@ -8,10 +8,10 @@ filename: index
 ## Shrestha Files
 
 <div class="container">
-<div class="card">
-  <a href="https://youtu.be/AtSzg57Pceo">NXT Windows1</a>
-  <a href="https://youtu.be/AtSzg57Pceo">NXT Windows2</a>
-</div>
+  <div class="card">
+    <a href="https://youtu.be/AtSzg57Pceo">NXT Windows1</a>
+    <a href="https://youtu.be/AtSzg57Pceo">NXT Windows2</a>
+  </div>
   <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-outline-secondary" role="button">Softpedia1</a>
   <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-primary" role="button">Softpedia2</a>
   <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-primary">Softpedia3</a>
@@ -70,6 +70,114 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 
 
 ### What Others Are Saying About Shrestha Files
+
+<div class="card">
+    <div class="card-header">
+        <h4>Reviews (English)</h4>
+    </div>        
+    <div class="card-body">
+        <div class="card-group" style="opacity: 0.5;">
+            <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" 
+                    title="Softpedia"
+                    src="./img/logos/Softpedia.png" 
+                    alt="Softpedia Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Softpedia</p>
+                    </div> -->
+                </div>
+            </a> 
+
+            
+            <a href="https://youtu.be/AtSzg57Pceo">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/NXTWindows.jpg" 
+                    title="NXT Windows"
+                    alt="NXT Windows Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">NXT Windows</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://alternativeto.net/software/shrestha-files/about/">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/AlternativeTo.png" 
+                    title="AlternativeTo"
+                    alt="AlternativeTo Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">AlternativeTo</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://shrestha-files-pro.en.softonic.com/">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Softonic.png" 
+                    title="Softonic"
+                    alt="Softonic Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Softonic</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://betanews.com/2021/02/05/best-windows-10-apps-this-week-203/">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/BetaNews.png" 
+                    title="Beta News"
+                    alt="Beta News Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Beta News</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://www.windowslatestnews.com/shrestha-files-pro-windows-10-file-explorer/">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/WindowsLatestNews.png" 
+                    title="Windows Latest News"
+                    alt="Windows Latest News Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Windows Latest News</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/">
+                <div class="card">
+                    <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/ElectroDealPro.png" 
+                    title="Electron Deal Pro"
+                    alt="Electron Deal Pro Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Electro Deal Pro</p>
+                    </div> -->
+                </div>
+            </a>
+
+            
+            <a href="https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/">
+                <div class="card">
+                    <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/NSaneForums.png" 
+                    title="Nsane Forum"
+                    alt="Nsane Forum Logo"/>
+                    <!-- <div class="card-body">
+                        <p class="card-text">Nsane Forum</p>
+                    </div> -->
+                </div>
+            </a>
+
+        </div>
+      </div>
+</div>
+
+
 #### English
 * [Softpedia.com](https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml)
 * [NXT Windows](https://youtu.be/AtSzg57Pceo)
