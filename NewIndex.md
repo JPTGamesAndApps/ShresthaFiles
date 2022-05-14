@@ -337,7 +337,7 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
             <a href="https://shrestha-files-a-modern-dual-panel-file-manager.para-ordenador.com/">
                 <div class="card">
                     <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Para-Ordenador.png" 
-                    title=Para-Ordenador (Spanish)"
+                    title="Para-Ordenador (Spanish)"
                     alt="Para-Ordenador Logo"/>
                     <!-- <div class="card-body">
                         <p class="card-text">Para-Ordenador (Spanish)</p>
