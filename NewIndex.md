@@ -8,9 +8,9 @@ filename: index
 ## Shrestha Files
 
 <div class="container">
-  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-outline-secondary">Softpedia</a>
-  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-outline-secondary">Softpedia</a>
-  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-outline-secondary">Softpedia</a>
+  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-outline-secondary" role="button">Softpedia1</a>
+  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-primary" role="button">Softpedia2</a>
+  <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml" class="btn btn-primary">Softpedia3</a>
   <a href="https://youtu.be/AtSzg57Pceo">NXT Windows</a>
   <a href="https://alternativeto.net/software/shrestha-files/about/">AlternativeTo.net</a>
 </div>
