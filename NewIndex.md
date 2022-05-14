@@ -70,7 +70,7 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
 
 
 ### What Others Are Saying About Shrestha Files
-    <!------------------------------------------------------------------------->
+
     <div class="container">
         <h4>Reviews (English)</h4>     
         <div class="card-body">
@@ -426,7 +426,6 @@ If you are looking for a dual pane file manager with tabs and colorful themes, l
         </div>
     </div>
             
-    <!------------------------------------------------------------------------->
 
 
 ### Translation
