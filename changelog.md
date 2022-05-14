@@ -235,7 +235,7 @@ This is the biggest update of Shrestha Files Pro X (Beta) since the first beta v
 		* Create a folder inside CustomIcons folder in the LocalState folder. 
 		* Paste SVG files for various file types, e.g. for file type ".txt", add a SVG file named txt.svg. 
 		* Users can download the SVG files from places such as svgrepo or icons8. Thanks to both websites! Link is not added here because Community Toolkit's MarkDown editor is not working as expected when links are added. svg repo and icons8 links are provided in the About section of the app.
-		* Make sure the SVG icons does not have width and height, if they do, just remove them, e.g., update this (<svg viewBox="0 0 48 48" width="240px" height="240px">) to this (<svg viewBox="0 0 48 48">). 
+		* Make sure the SVG icons does not have width and height, if they do, just remove them, e.g., update this (svg viewBox="0 0 48 48" width="240px" height="240px") to this (svg viewBox="0 0 48 48"). 
 		* Also add defaultfile.svg and defaultfolder.svg. defaultfile.svg is used for all file types for which type specific SVG file is not provided. 
 		* defaultfolder.svg is used for all folders. 
 		* Users can also add text.svg, image.svg, audio.svg, and video.svg that will be used for corresponding formats (e.g. text.svg will be used for .txt, .json, etc. if type specific icon is not provided).
