@@ -7,7 +7,7 @@ filename: changelog
 ## Change Log History
 The latest "Free" version is version 2.0. "Pro X" versions are updated to the latest version posted here.
 
-Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing to all users.
+Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing it to all users.
 
 
 
