@@ -1,5 +1,5 @@
 ---
-title: Pro X Home
+title: Shrestha Files Pro X
 layout: default
 filename: index
 ---
