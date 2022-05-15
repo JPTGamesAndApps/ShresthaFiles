@@ -10,9 +10,9 @@ filename: index
 <div class="container">
     <p>If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub">Download it from the Microsoft Store Now</a>.</p>
 
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CmNeZp8rDDM" title="Shrestha Files Pro X Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CmNeZp8rDDM" title="Shrestha Files Pro X Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
     <a href="https://youtu.be/fOKNh0Mdl_I">
         <image src="./images/Launch2021/ColorfulShresthaFilesPro.png"/>
