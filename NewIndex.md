@@ -374,7 +374,7 @@ filename: index
 <div class="row">
     <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
 
-    <img src="./ShresthaFiles/images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
+    <img src="./images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
 </div>
 
 
