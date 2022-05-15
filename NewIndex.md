@@ -371,10 +371,13 @@ filename: index
 <h3 id="note">Note</h3>
 <p>This repo does not contain source code for Shrestha Files!</p>
 
-<div class="row">
-    <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
-
-    <img src="./images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
+<div class="card-group">
+<div class="card">
+   <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
 </div>
 
+<div class="card"> 
+    <img src="./images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
+    </div>
+</div>
 
