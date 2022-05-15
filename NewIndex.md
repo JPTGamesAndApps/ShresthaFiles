@@ -10,23 +10,17 @@ filename: index
 <div class="container">
     <p>If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub">Download it from the Microsoft Store Now</a>. Watch a video overview <a href="https://youtu.be/fOKNh0Mdl_I">here</a>.</p>
 
-<a href="https://youtu.be/fOKNh0Mdl_I">
-   <image src="./images/Launch2021/ColorfulShresthaFilesPro.png"/>
-</a>
-<a href="https://youtu.be/fOKNh0Mdl_I">
-   <image src="./images/Launch2021/ShresthaFilesProGuideAnimated.gif"/>
-</a>
-
-
-[![Shrestha Files]()]()
-![Shrestha Files]()
-
-
+    <a href="https://youtu.be/fOKNh0Mdl_I">
+        <image src="./images/Launch2021/ColorfulShresthaFilesPro.png"/>
+    </a>
+    <a href="https://youtu.be/fOKNh0Mdl_I">
+        <image src="./images/Launch2021/ShresthaFilesProGuideAnimated.gif"/>
+    </a>
 </div>
 
 <h3 id="features">Features</h3>
 <ul>
-    <li>Fluent design matching the look and feel of Windows 10 and Windows 11
+    <li>Fluent design matching the look and feel of Windows 11 and Windows 10
     <ul>
         <li>Standard colorful themes and custom themes by users</li>
     </ul>
@@ -37,7 +31,7 @@ filename: index
     </ul>
     </li>
     <li>Standard single pane mode for all users or advanced dual pane mode for power users</li>
-    <li>Internal viewers for text, image, audio, and video files</li>
+    <li>Internal viewers for text and image files</li>
     <li>Six different view types
     <ul>
         <li>Simple list, detailed list, small grid, medium grid, large grid, and tiles</li>
@@ -378,16 +372,9 @@ filename: index
 <p>This repo does not contain source code for Shrestha Files!</p>
 
 <div class="row">
-    <a href="//www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px;"></a>
+    <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
 
-    <img src="/ShresthaFiles/images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)"  style="height:100px;" />    
+    <img src="./ShresthaFiles/images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
 </div>
-
-
-
-
-### Translation
-
-If you would like to translate the app in the language of your choice, instructions are provided [here](https://jptgamesandapps.github.io/ShresthaFiles/translation).
 
 
