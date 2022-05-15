@@ -9,6 +9,19 @@ filename: index
 
 <div class="container">
     <p>If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub">Download it from the Microsoft Store Now</a>. Watch a video overview <a href="https://youtu.be/fOKNh0Mdl_I">here</a>.</p>
+
+<a href="https://youtu.be/fOKNh0Mdl_I">
+   <image src="./images/Launch2021/ColorfulShresthaFilesPro.png"/>
+</a>
+<a href="https://youtu.be/fOKNh0Mdl_I">
+   <image src="./images/Launch2021/ShresthaFilesProGuideAnimated.gif"/>
+</a>
+
+
+[![Shrestha Files]()]()
+![Shrestha Files]()
+
+
 </div>
 
 <h3 id="features">Features</h3>
@@ -94,7 +107,7 @@ filename: index
 
 <div class="card-body">
     <div class="card-group" style="opacity: 0.5;">
-    
+
         <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml">
             <div class="card">
                 <img class="card-img-top" style="width: auto; height: 50px;" 
@@ -372,78 +385,9 @@ filename: index
 
 
 
-[![Shrestha Files](/images/Launch2021/ColorfulShresthaFilesPro.png)](https://youtu.be/fOKNh0Mdl_I)
-![Shrestha Files](/images/Launch2021/ShresthaFilesProGuideAnimated.gif)
-
-If you are looking for a dual pane file manager with tabs and colorful themes, look no further: Shrestha Files Pro is here with a modern and minimalist design to supercharge your productivity! [Download it from the Microsoft Store Now](https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub). Watch a video overview [here](https://youtu.be/fOKNh0Mdl_I).
-
-
-### Features
-* Fluent design matching the look and feel of Windows 10 and Windows 11
-  * Standard colorful themes and custom themes by users
-* Tabbed interface similar to web browsers
-  * Move tabs from one pane to another
-* Standard single pane mode for all users or advanced dual pane mode for power users
-* Internal viewers for text, image, audio, and video files
-* Six different view types
-  * Simple list, detailed list, small grid, medium grid, large grid, and tiles
-* Customizable navigation bar with two-level bookmarks
-* Built in Zip and Unzip feature
-* Drag and drop support
-  * Drop files and/or folders inside a tab or inside a folder within a tab
-* Progress indicator for file operations with detailed logs
-* Automatically saves and restores open tabs, view types per tab, pane size, etc.
-* Search to find items in the current folder and sub-folders
-* Quick filter to find items in the current folder
-* Properties viewer
-* All the standard features of a File Manager
-  * Copy, Cut, Paste, Rename, Delete, New File, New Folder, etc.
-  * Sort by item name, type, date, and size
-
-
-### Speed Test Against Windows File Explorer
-* [Windows File Explorer and Notepad vs Shrestha Files and Internal Text Viewer](https://youtu.be/V09G9u-RAR4)
-* [Windows File Explorer and Photos vs Shrestha Files and Internal Photo Viewer](https://youtu.be/oFsOza1OU0M)
-* [Windows File Explorer and Movies & TV vs Shrestha Files Pro and Internal Video Viewer](https://youtu.be/ZVTDLhgIqWg)
-* [Windows File Explorer and VLC vs Shrestha Files and Internal Video Viewer](https://youtu.be/gTBngQdT3Gw)
-
-### Keyboard Accelerators (Shortcuts)
-
-![Keyboard Accelerators](/images/ShresthaFilesShortcuts.gif)
-
-### Tips and Tricks
-* Users can double click an empty area in a tab to browse the parent directory
-* Users can right click any navigation bar item to open the path in a new tab or delete the item.
-* Some settings are currently only accessible from config.json file in app directory.
-* Users can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.
-* Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.
-* You can launch Shrestha Files from command line or run by typing "file".
-* In the Single Click mode, users can click near the border of the item to select the item instead of opening the item.
-
-
-### What Others Are Saying About Shrestha Files
-
-            
-
 
 ### Translation
 
 If you would like to translate the app in the language of your choice, instructions are provided [here](https://jptgamesandapps.github.io/ShresthaFiles/translation).
 
-
-### Thoughts that every one have about Windows File Explorer in Windows 11
-* Windows File Explorer Alternative
-* Windows File Explorer Not Responding
-* Windows File Explorer Slow
-* Windows File Explorer Tabs
-* Windows File Explorer Not Opening
-* Get Help with File Explorer in Windows
-
-### Note
-This repo does not contain source code for Shrestha Files!
-
-
-[![Get it From Microsoft Store](https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png)](//www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub) | ![Microsoft Store Rating (Global)](/images/MicrosoftStoreRating09062021.png)
------- | ------
-Download from the Microsoft Store | Global Rating
 
