@@ -1,5 +1,13 @@
+---
+title: Keyboard Accelerators
+layout: default
+filename: keyboardaccelerators
+---
 
 ## Keyboard Accelerators (Shortcuts)
+
+<p><img src="/ShresthaFiles/images/ShresthaFilesShortcuts.gif" alt="Keyboard Accelerators"></p>
+
 Note: If keyboard accelerators does not work sometimes, click inside any tab and try again.
 * F1 - About dialog
 * F2 - Rename file/folder

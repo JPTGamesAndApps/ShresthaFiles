@@ -13,13 +13,6 @@ filename: index
     <div style="display: flex; align-items: center; justify-content: center; width:100%;">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/CmNeZp8rDDM" title="Shrestha Files Pro X Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-
-    <a href="https://youtu.be/fOKNh0Mdl_I">
-        <image src="./images/Launch2021/ColorfulShresthaFilesPro.png"/>
-    </a>
-    <a href="https://youtu.be/fOKNh0Mdl_I">
-        <image src="./images/Launch2021/ShresthaFilesProGuideAnimated.gif"/>
-    </a>
 </div>
 
 <h3 id="features">Features</h3>
@@ -61,43 +54,14 @@ filename: index
     </li>
 </ul>
 
-
-
+<h3>Useful Information</h3>
+<ul>
+    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/speedtest">Speed Tests</a></li>
+    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/keyboardaccelerators">Keyboard Accelerators</a></li>
+    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/tipsandtricks">Tips and Tricks</a></li>
+    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/translation">Volunteer to Translate</a></li>
+</ul>
             
-    
-
-
-
-
-
-<h3 id="speed-test-against-windows-file-explorer">Speed Test Against Windows File Explorer</h3>
-<ul>
-<li><a href="https://youtu.be/V09G9u-RAR4">Windows File Explorer and Notepad vs Shrestha Files and Internal Text Viewer</a></li>
-<li><a href="https://youtu.be/oFsOza1OU0M">Windows File Explorer and Photos vs Shrestha Files and Internal Photo Viewer</a></li>
-<li><a href="https://youtu.be/ZVTDLhgIqWg">Windows File Explorer and Movies &amp; TV vs Shrestha Files Pro and Internal Video Viewer</a></li>
-<li><a href="https://youtu.be/gTBngQdT3Gw">Windows File Explorer and VLC vs Shrestha Files and Internal Video Viewer</a></li>
-</ul>
-
-<h3 id="keyboard-accelerators-shortcuts">Keyboard Accelerators (Shortcuts)</h3>
-
-<p><img src="/ShresthaFiles/images/ShresthaFilesShortcuts.gif" alt="Keyboard Accelerators"></p>
-
-<h3 id="tips-and-tricks">Tips and Tricks</h3>
-<ul>
-<li>Users can double click an empty area in a tab to browse the parent directory</li>
-<li>Users can right click any navigation bar item to open the path in a new tab or delete the item.</li>
-<li>Some settings are currently only accessible from config.json file in app directory.</li>
-<li>Users can drag and drop files and folders from inside one tab to inside another tab or inside the folder listed in the tab.</li>
-<li>Detailed log are stored in the log.txt in LocalCache directory. If the app crashes, you can email the log and steps to reproduce the crash to the developer so that it can be fixed.</li>
-<li>You can launch Shrestha Files from command line or run by typing “file”.</li>
-<li>In the Single Click mode, users can click near the border of the item to select the item instead of opening the item.</li>
-</ul>
-
-
-<h3 id="translation">Translation</h3>
-
-<p>If you would like to translate the app in the language of your choice, instructions are provided <a href="https://jptgamesandapps.github.io/ShresthaFiles/translation">here</a>.</p>
-
 
 
     
