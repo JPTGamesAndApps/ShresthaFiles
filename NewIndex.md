@@ -372,11 +372,11 @@ filename: index
 <p>This repo does not contain source code for Shrestha Files!</p>
 
 <div class="card-group">
-<div class="card">
+<div class="card-body">
    <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
 </div>
 
-<div class="card"> 
+<div class="card-body"> 
     <img src="./images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
     </div>
 </div>
