@@ -16,7 +16,7 @@ filename: index
 </div>
 
 
-<div class="row">
+<div class="row" style="display: flex; align-items: center; justify-content: center; width:100%;">
     <div class="card" style="width: 18rem;">
         <div class="card-body">
             <h5 class="card-title">Single or Dual Pane</h5>
