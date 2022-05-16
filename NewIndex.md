@@ -15,7 +15,7 @@ filename: index
     </div>
 </div>
 
-<div class="card-body">
+
 <div class="row" style="display: flex; align-items: center; justify-content: center; width:100%;">
     <div class="card" style="width: 18rem;">
         <div class="card-body">
@@ -42,7 +42,7 @@ filename: index
         <div class="card-body">
             <h5 class="card-title">Customizable Icons</h5>
             <h6 class="card-subtitle mb-2 text-muted">For files, folder, libraries, drives, and buttons</h6>
-            <p class="card-text">Customize the look and feel of the app by creating your own icon pack for various file types, folder, library items, variou types of drives, and buttons such as navigate back and forth. Use simple glyph icons for clean look or colorful icons for fancy look.</p>
+            <p class="card-text">Customize the look and feel of the app by creating your own icon pack for various file types, folder, library items, various types of drives, and buttons such as navigate back and forth. Use simple glyph icons for clean look or colorful icons for fancy look.</p>
         </div>
     </div>
     <div class="card" style="width: 18rem;">
