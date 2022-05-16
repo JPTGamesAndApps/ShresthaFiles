@@ -17,7 +17,6 @@ filename: index
 
 
 
-<div class="card-group">
     <div class="card" style="width: 18rem;">
         <div class="card-body">
             <h5 class="card-title">Single or Dual Pane</h5>
@@ -137,7 +136,6 @@ filename: index
                             <p class="card-text">Sort by item name, date, type, or extension.</p>
                         </div>
                         </div>
-</div>
 
 <h3 id="features">Features</h3>
 <ul>
