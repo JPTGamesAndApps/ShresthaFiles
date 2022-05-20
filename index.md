@@ -215,6 +215,16 @@ filename: index
         </a>
 
         
+        
+        <a href="http://lzdcctv.cn/zhsh/21209.html">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/Lzdcctv.png" 
+                title="Lzdcctv (Chinese-Simplified)"
+                alt="Lzdcctv (Chinese-Simplified) Logo"/>
+            </div>
+        </a>
+
+
         <a href="https://windowsforum.kr/data/16705506">
             <div class="card">
                 <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/WindowsForum.png" 
