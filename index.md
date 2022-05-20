@@ -332,6 +332,18 @@ filename: index
                 alt="Haohe.Fun (Chinese Simplified) Logo"/>
             </div>
         </a>
+
+                
+        <a href="https://ez3c.tw/10356">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Ez3c.png" 
+                title="Ez3c (Chinese-Traditional)"
+                alt="Ez3c (Chinese-Traditional) Logo"/>
+            </div>
+        </a>
+
+
+
     </div>
 </div>
 
