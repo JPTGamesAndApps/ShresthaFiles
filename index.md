@@ -142,14 +142,6 @@ filename: index
             </div>
         </a>
 
-        
-        <a href="https://www.techrum.vn/threads/t%E1%BA%A3i-mi%E1%BB%85n-ph%C3%AD-shrestha-files-pro-x-file-explorer-h%E1%BB%97-tr%E1%BB%A3-duy%E1%BB%87t-nhi%E1%BB%81u-tab-c%C3%B9ng-giao-di%E1%BB%87n-fluent-tuy%E1%BB%87t-%C4%91%E1%BA%B9p-cho-windows-10-11.589308/">
-            <div class="card">
-                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Techrum.png" 
-                title="Techrum (Vietnamese)"
-                alt="Techrum (Vietnamese) Logo"/>
-            </div>
-        </a>
 
         
         <a href="https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/">
@@ -380,6 +372,16 @@ filename: index
         </a>
 
                 
+        
+        <a href="https://www.techrum.vn/threads/t%E1%BA%A3i-mi%E1%BB%85n-ph%C3%AD-shrestha-files-pro-x-file-explorer-h%E1%BB%97-tr%E1%BB%A3-duy%E1%BB%87t-nhi%E1%BB%81u-tab-c%C3%B9ng-giao-di%E1%BB%87n-fluent-tuy%E1%BB%87t-%C4%91%E1%BA%B9p-cho-windows-10-11.589308/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/int/Techrum.png" 
+                title="Techrum (Vietnamese)"
+                alt="Techrum (Vietnamese) Logo"/>
+            </div>
+        </a>
+
+
         <a href="https://www.cr173.com/soft/1497630.html">
             <div class="card">
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Cr173.jpg" 
