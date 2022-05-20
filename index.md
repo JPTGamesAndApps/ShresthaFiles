@@ -134,6 +134,15 @@ filename: index
         </a>
 
         
+        <a href="https://www.techno360.in/shrestha-files-pro-x-for-free-dual-pane-file-manager/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Techno360.png" 
+                title="Techno 360"
+                alt="Techno 360 Logo"/>
+            </div>
+        </a>
+
+        
         <a href="https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/">
             <div class="card">
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/NSaneForums.png" 
