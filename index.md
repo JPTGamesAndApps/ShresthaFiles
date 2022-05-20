@@ -145,7 +145,7 @@ filename: index
         
         <a href="https://www.techrum.vn/threads/t%E1%BA%A3i-mi%E1%BB%85n-ph%C3%AD-shrestha-files-pro-x-file-explorer-h%E1%BB%97-tr%E1%BB%A3-duy%E1%BB%87t-nhi%E1%BB%81u-tab-c%C3%B9ng-giao-di%E1%BB%87n-fluent-tuy%E1%BB%87t-%C4%91%E1%BA%B9p-cho-windows-10-11.589308/">
             <div class="card">
-                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Techno360.png" 
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Techrum.png" 
                 title="Techrum (Vietnamese)"
                 alt="Techrum (Vietnamese) Logo"/>
             </div>
