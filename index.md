@@ -56,7 +56,7 @@ filename: index
 
 <h3>Useful Information</h3>
 <ul>
-    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/keyboardaccelerators">Keyboard Accelerators</a></li>
+    <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/keyboardaccelerators">Keyboard Accelerators (Shortcuts)</a></li>
     <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/tipsandtricks">Tips and Tricks</a></li>
     <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/translation">Volunteer to Translate</a></li>
     <li><a href="https://jptgamesandapps.github.io/ShresthaFiles/speedtest">Speed Tests</a></li>
