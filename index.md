@@ -379,6 +379,14 @@ filename: index
             </div>
         </a>
 
+                
+        <a href="https://www.cr173.com/soft/1497630.html">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Cr173.jpg" 
+                title="Cr173 (Chinese-Simplified)"
+                alt="Cr173 (Chinese-Simplified) Logo"/>
+            </div>
+        </a>
 
 
     </div>
