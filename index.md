@@ -253,6 +253,15 @@ filename: index
 
 
         
+        <a href="https://x1g.la/shrestha-files-pro-x.html">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/X1G.png" 
+                title="X1G (Chinese-Simplified)"
+                alt="X1G (Chinese-Simplified) Logo"/>
+            </div>
+        </a>
+
+        
         <a href="https://www.descargas.com/app/shrestha-files-pro/windows/">
             <div class="card">
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Descargas.png" 
