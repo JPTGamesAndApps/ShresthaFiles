@@ -392,7 +392,7 @@ filename: index
 
 <div class="card-group">
 <div class="card-body">
-   <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Get it From Microsoft Store" style="height:100px; width:auto;" /></a>
+    <ms-store-badge productid="9NPNFFSV2HQM" size="large"></ms-store-badge>
 </div>
 
 <div class="card-body"> 
