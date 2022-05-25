@@ -136,6 +136,14 @@ filename: index
 
 
         
+        <a href="https://licfree.com/shrestha-files-pro-x-for-free-dual-pane-file-manager-with-tabs-and-colorful-themes/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/LicFree.png" 
+                title="LicFree"
+                alt="LicFree Logo"/>
+            </div>
+        </a>
+        
         <a href="https://nsaneforums.com/topic/415969-microsoft-store-shrestha-files-pro/">
             <div class="card">
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/NSaneForums.png" 
@@ -337,7 +345,15 @@ filename: index
                 alt="01Net.Com (French) Logo"/>
             </div>
         </a>
-        
+                
+        <a href="https://www.xiaoyi.vc/shrestha-files-pro-x.html">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Xiaoyi.png" 
+                title="Xiaoyi (Chinese Simplified)"
+                alt="Xiaoyi (Chinese Simplified) Logo"/>
+            </div>
+        </a>
+
         <a href="https://forum.zyzoom.net/threads/367759/">
             <div class="card">
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Zyzoom.png" 
