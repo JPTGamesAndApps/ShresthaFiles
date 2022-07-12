@@ -135,6 +135,15 @@ filename: index
         </a>
 
 
+        <a href="https://techpp.com/2022/07/08/file-managers-for-windows/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/TechPP.png" 
+                title="TechPP"
+                alt="TechPP Logo"/>
+            </div>
+        </a>
+
+
         
         <a href="https://licfree.com/shrestha-files-pro-x-for-free-dual-pane-file-manager-with-tabs-and-colorful-themes/">
             <div class="card">
