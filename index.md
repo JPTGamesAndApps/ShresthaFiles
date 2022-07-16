@@ -117,6 +117,16 @@ filename: index
         </a>
 
         
+        <a href="https://www.pcmag.com/picks/windows-11-file-explorer-alternatives">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/PCMag.png" 
+                title="PCMagazine"
+                alt="PCMag Logo"/>
+            </div>
+        </a>
+
+
+        
         <a href="https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/">
             <div class="card">
                 <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/ElectroDealPro.png" 
