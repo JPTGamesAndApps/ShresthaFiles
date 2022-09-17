@@ -4,6 +4,10 @@ layout: default
 filename: index
 ---
 
+<a href="https://blogs.windows.com/windowsdeveloper/2022/05/27/announcing-the-microsoft-store-app-awards-winners">
+    <img src="images/MicrosoftAppAwardFinalistFileManagementCategory.png" alt="Microsoft App Award Finalist in File Management Category"/>
+</a>
+
 <h2 id="shrestha-files">Shrestha Files</h2>
 
 
