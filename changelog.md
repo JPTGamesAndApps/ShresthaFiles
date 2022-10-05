@@ -10,6 +10,78 @@ The latest "Free" version is version 2.0. "Pro X" versions are updated to the la
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing it to all users.
 
 
+**Changelog for Version 2.10 (September 12, 2022)**
+
+* Added option to create new files using shell item templates, such as Microsoft Word Document and Microsoft PowerPoint Document. However, this list will not be as comprehensive as Windows File Explorer (e.g., New Shortcuts will not be available).
+* Menu items to create new file and folder is now combined to a single item in both toolbar as well as the context menu.
+* While creating new files/folders, the list should scroll to newly created file/folder. This may not work consistently every time.
+* Removed Gradient icon theme. The office theme continues to be shipped.
+* Fixed crashes while clicking rename button and nothing is selected.
+* Miscellaneous improvements.
+* Added Damián Roig to the feedback hero list for continuous feedback and translation.
+
+
+
+**Changelog for Version 2.9 (September 04, 2022)**
+
+* Added Office and Gradient icon theme. Credits to Icons8!
+* Added option to disable listing folders first.
+* The positions of the standard bookmark items (e.g. libraries, devices and drives, etc.) are restored now. Previously, their location used to be reset to their standard positions after app restart.
+* Tooltip text of the warning about the app instance not being the main instance should show up on mouse over now.
+* Miscellaneous improvements.
+
+
+
+**Changelog for Version 2.8 (September 01, 2022)**
+
+* Opacity/transparency can be set for hidden and system files/folders. The opacity/transparency values can be changed from config file: HiddenFileFolderOpacityExperimental and SystemFileFolderOpacityExperimental.
+* Added experimental option and config to hide files/folders marked as hidden or system file/folder: HideHiddenFileFolderExperimental and HideSystemFileFolderExperimental. This setting will also apply in search results.
+* Drag and drop is still disabled for files, folders, bookmarks, and tabs. This can be reenabled by updating the config value for EnableMultipleInstance. However, drag and drop will most likely cause the app to crash. This crash cannot be fixed by Shrestha Files developer. Microsoft needs to fix related issue in their platform (WinAppSDK) first.
+
+
+
+**Changelog for Version 2.7 (August 18, 2022)**
+
+* Drag and drop is disabled for files, folders, bookmarks, and tabs. This can be reenabled by updating the config value for EnableMultipleInstance. However, drag and drop will most likely cause the app to crash. This crash cannot be fixed by Shrestha Files developer. Microsoft needs to fix related issue in their platform (WinAppSDK) first.
+* Path arguments can be passed to the app again. With some registry edits, this will enable launching Shrestha Files Pro X when Windows tries to launch a folder. This will also enable Shrestha Files to launch with additional folder path (e.g., "sfiles.exe C:\" will launch Shrestha Files with saved tabs and another tab for "C:\").
+* Now, only the main instance of the app will save the settings. Other subsequent instances will have a warning sign in the status bar indicating that settings from that instance will not be saved. This will enable launching subsequent instances of the app faster if the settings have multiple tabs saved.
+* Upgraded WinAppSDK to 1.1.4
+
+
+
+**Changelog for Version 2.6 (August 07, 2022)**
+
+* Experimental option added in the config file (EnableSystemContextMenuExperimental) to show the system context menu for selected files, folders, or current folder (if nothing is selected). This option is disabled by default. This option will likely remain as experimental for quite some time. Some features such as "Send To" does not work. The system context menu does not follow the dark/light theme options. Drive properties will not show up.
+* Upgraded WinAppSDK to 1.1.3.
+* Updated Spanish translation. Thanks to Damián Roig!
+
+
+
+**Changelog for Version 2.5 (July 02, 2022)**
+
+* KNOWN ISSUE: DRAG AND DROP CRASHES THE APP!! This is a platform bug that cannot be fixed by app developers!
+* Settings for alternative icons for files and folders are indented a bit to communicate that they are subsettings for the corresponding preferred icon types.
+* Updated generic icons for ascending up and down.
+* If environmental variables are not supported, OneDrive will not be added. Some versions of Windows 10 will have this issue.
+* Cloud drives should not have glyph icons instead of no icons.
+* Added shortcut `Ctrl` `L` for "Open Command Prompt" in the shortcuts list.
+* Updated Spanish translation. Thanks to Damián Roig!
+* Fixed: Texts in some settings were not completely visible.
+* Misecellaneous improvements.
+	- Fixed spellings of Español and Deutsch.
+	- Removed unused string Generic.CS.Message.
+	
+	
+
+**Changelog for Version 2.4 (June 13, 2022)**
+
+* Added GUI for Mica/Acrylic/None application backdrop settings in the experimental section. Users can now choose between Mica/Acrylic/None and set tint opacity for the backdrop. The application backdrop switching requires app restart. Note that the previous opacity settings will still be used (and the layers are applied on top of the application backdrop).
+* OneDrive and OneDrive for Business are now added to the Cloud section of the bookmarks automatically. This will be persistent as the libraries and drives. Thus, even if they are removed, they will be readded in the same location when the app is started again. If changes are made to the sub items, they will be saved.
+* Added context menu item to launch command prompt in the current folder (Ctrl + L).
+* Very experimental method added to unlock Bitlocker locked drives. When a bitlocker locked drive is double clicked from the "This PC" page, it will open a Command Prompt that will ask for a password to unlock the drive. Once password is entered it should unlock the drive. Finally, close the Command Prompt to load the drive content in the Tab Page. For this to work, users need to set EnableUnlockBitlockerExperimental value to true in the config file.
+* Miscellaneous improvements.
+
+
 
 Changelog for Version 2.3 (June 05, 2022)
 
