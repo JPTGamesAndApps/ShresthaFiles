@@ -83,7 +83,7 @@ Some versions are relased gradually, meaning not everyone will get the latest ve
 
 
 
-Changelog for Version 2.3 (June 05, 2022)
+**Changelog for Version 2.3 (June 05, 2022)**
 
 * Progress ring added on the loading screen.
 * Context menu tooltip for "Copy Path" is updated to reflect that it copies the current folder path (if no item is selected) or selected item path (if an item is selected). Non-English translations may not reflect this properly.
@@ -93,13 +93,13 @@ Changelog for Version 2.3 (June 05, 2022)
 
 
 
-Changelog for Version 2.2 (June 04, 2022)
+**hangelog for Version 2.2 (June 04, 2022)**
 
 * WinAppSDK upgrade from 1.0 to 1.1.
 
 
 
-Changelog for Version 2.1 (May 24, 2022)
+**Changelog for Version 2.1 (May 24, 2022)**
 
 * Added Chinese Traditional translation (Hans and zh-TW). Thanks to TGi!
 * Updated Spanish translation. Thanks to Damián Roig!
