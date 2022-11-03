@@ -435,7 +435,7 @@ filename: index
 </div>
 
 <div class="card-body"> 
-    <img src="./images/MicrosoftStoreRating09062021.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
+    <img src="./images/MicrosoftStoreRating11022022.png" alt="Microsoft Store Rating (Global)" style="height:100px; width:auto;" />    
     </div>
 </div>
 
