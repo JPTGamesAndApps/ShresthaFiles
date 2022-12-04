@@ -10,6 +10,84 @@ The latest "Free" version is version 2.0. "Pro X" versions are updated to the la
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing it to all users.
 
 
+**Changelog for Version 2.17 (November 23, 2022)**
+
+* Drag and drop is reenabled and should be working as expected now.
+* Readded internal audio player
+* Readded internal video player
+* Added audio list in the internal audio player.
+* Added file list to the text editor.
+* Dependency updates including WinAppSDK 1.1 to WinAppSDK 1.2.
+
+
+**Changelog for Version 2.16 (November 11, 2022)**
+
+* Added feature to paste image and text from clipboard to image file (.png) and text file (.txt), respectively. This would be useful in various circumstances such as when users want to save screenshots somewhere.
+
+
+**Changelog for Version 2.15 (November 8, 2022)**
+
+* Fixed: SVG icons such for buttons such as copy and paste was not updating immediately after the icon theme update from the settings.
+* Fixed: Mismatch between the processor architecture that probably crashed the application in arm64 devices.
+* Fixed: App crash at launch when many tabs were saved.
+* Fixed: Show System Context Menu was showing/hiding Properties Viewer insead of showing the system context menu.
+* Updated Chinese Simplified translation. Thanks to Fairycn!
+* Updated Spanish translation. Thanks to Damián Roig!
+
+
+**Changelog for Version 2.14 (November 6, 2022)**
+
+* Command Prompt can now also be opened for selected folder in addition to the current tab path.
+* Updated status bar texts that can also be localized (translated) now.
+* Fixed: Always load thumbnails for certain file type option was getting ignored.
+* Fixed: Sort order (ascending/descending) in the context menu had opposite icon.
+* Miscellaneous improvements.
+
+
+**Changelog for Version 2.13 (November 2, 2022)**
+
+* Added mouse over animations to toolbar items such as navigation, copy, paste, and delete buttons.
+* Fixed issue where some file operation buttons such as copy and paste were always disabled.
+
+
+**Changelog for Version 2.12 (October 30, 2022)**
+
+* Updated toolbar buttons that uses an improved code base for displaying icons and executing actions such as copy, paste, etc. Updated icons are used by default using a new config option: useNewModularToolbarExperimental.
+* Updated layout templates for file/folder items that uses storage item icon user control for cleaner code.
+* If properties viewer is already visible, clicking Properties context menu now hides the properties viewer.
+* Show properties viewer is now enabled when only at max one item is selected.
+* Paste Option is now enabled/disabled as soon as clipboard content changes.
+* Moved three options to General Settings from Experiemental Settings. These three setting values may reset to default:
+	- List Folders First
+	- Hide Hidden Files and Folders
+	- Hide System Files and Folders
+* New template file creation menus show "Create New Xyz" instead of "Create New Text Document".
+* Fixed: Sort by glyph icon did not update after changing the sort by field selection.
+* Fixed: Colorful command button icons do not show up if the app starts with glyph icons and then switched to colorful icons afterwards.
+* Added New Custom Background Images (Theme Settings). Make sure the Overall Tint Opacity and Overall Opacity (Experimental Settings) are less than 1 (say 0.8) to make those backgrounds visible.
+	- Halloween background image by David Menidrey: https://unsplash.com/@cazault
+	- Thanksgiving background image by Spencer Davis: https://unsplash.com/@spencerdavis
+	- Christmas background image by Tessa Rampersad: https://unsplash.com/@t_rampersad
+	- New Year background image by Ameer Basheer: https://unsplash.com/@24ameer
+	- Fall Color background image by Johannes Plenio: https://unsplash.com/@jplenio
+	- Spring Color background image by Aniket Bhattacharya: https://unsplash.com/@aniket940518
+	- Summer Beach background image by Sean Oulashin: https://unsplash.com/@oulashin
+	- Winter Snow background image by Ian Schneider: https://unsplash.com/@goian
+* Other miscellaneous fixes
+
+
+**Changelog for Version 2.11 (September 17, 2022)**
+
+* Folder loading issues such as invalid path and access issues are shown as a warning text below the toolbar. This is an improved version of the feature that previously existed in the universal version but was disabled for the Pro X version.
+* Text color of filter text should be more readable now.
+* Updated Spanish translation. Thanks to Damián Roig!
+* Miscellaneous improvements.
+* Updated WinAppSDK from 1.1.4 to 1.1.5.
+* Updated System.Text.Json from 6.0.5 to 6.0.6.
+* Updated CommunityToolkit.Diagnostics from 7.1.2 to 8.0.0.
+* Updated CommunityToolkit.Mvvm from 7.1.2 to 8.0.0.
+
+
 **Changelog for Version 2.10 (September 12, 2022)**
 
 * Added option to create new files using shell item templates, such as Microsoft Word Document and Microsoft PowerPoint Document. However, this list will not be as comprehensive as Windows File Explorer (e.g., New Shortcuts will not be available).
