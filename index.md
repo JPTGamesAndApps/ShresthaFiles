@@ -84,6 +84,15 @@ filename: index
             </div>
         </a>
 
+        <a href="https://youtu.be/xWVGdCeKgRE">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/OnlineComputerTips.jpg" 
+                title="Online Computer Tips"
+                alt="Online Computer Tips Logo"/>
+            </div>
+        </a>
+
+
         
         <a href="https://alternativeto.net/software/shrestha-files/about/">
             <div class="card">
