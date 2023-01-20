@@ -166,6 +166,14 @@ filename: index
             </div>
         </a>
 
+        <a href="https://harpertech.pages.dev/posts/top-7-file-managers-for-windows-11-10-in-2023-1989381/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/Harpertech.png" 
+                title="HarperTech"
+                alt="Harper Tech Logo"/>
+            </div>
+        </a>
+
 
         
         <a href="https://licfree.com/shrestha-files-pro-x-for-free-dual-pane-file-manager-with-tabs-and-colorful-themes/">
