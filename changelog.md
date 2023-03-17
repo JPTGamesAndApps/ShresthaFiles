@@ -10,6 +10,27 @@ The latest "Free" version is version 2.0. "Pro X" versions are updated to the la
 Some versions are relased gradually, meaning not everyone will get the latest version as soon as it is released. This is to ensure that if any unexpected bugs are introduced in the app resulting in crashes, the developer will get a chance to fix it before releasing it to all users.
 
 
+**Changelog for Version 2.19 (February 4, 2023)**
+
+* In the internal text editor, if changes to the current file are not saved while navigating to another file, the editor suggests to save the changes first.
+* Close button added to search dialog box.
+* Updated German translation. Thanks to Parasec!
+* Updated Spanish translation. Thanks to Damián Roig!
+* Updated Microsoft WinAppSDK to version 1.2.3
+* Updated Microsoft Jason to 7.0.1
+* Updated Community Toolkit MVVM to 8.1.0
+* Updated Community Toolkit Diagnostics to 8.1.0.
+* Updated Microsoft AppCenter Analytics to version 5.0.1
+* Updated Microsoft AppCenter Crashes to version 5.0.1
+
+
+**Changelog for Version 2.18 (December 3, 2022)**
+
+* Image thumbnail list added for the internal image viewer.
+* Max width of item list in the text editor and audio player added.
+* Attempted memory improvement.
+
+
 **Changelog for Version 2.17 (November 23, 2022)**
 
 * Drag and drop is reenabled and should be working as expected now.
