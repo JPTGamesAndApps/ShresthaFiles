@@ -138,6 +138,14 @@ filename: index
             </div>
         </a>
 
+        
+        <a href="https://geekchamp.com/best-file-explorer-for-windows-11-10/">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" src="./img/logos/GreekChamp.png" 
+                title="GreekChamp"
+                alt="GreekChamp Logo"/>
+            </div>
+        </a>
 
         
         <a href="https://electrodealpro.com/windows-10-file-management-in-2-column-fluent-interface/">
@@ -189,6 +197,22 @@ filename: index
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/NSaneForums.png" 
                 title="Nsane Forum"
                 alt="Nsane Forum Logo"/>
+            </div>
+        </a>
+
+        <a href="https://steprimo.com/windows/us/app/9npnffsv2hqm/Shrestha-Files-Pro/">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/StePrimo.png" 
+                title="Ste Primo"
+                alt="Ste Primo Logo"/>
+            </div>
+        </a>
+
+        <a href="https://www.hellotech.com/blog/best-microsoft-store-apps-awards/">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/HelloTech.png" 
+                title="Hello Tech"
+                alt="Hello Tech Logo"/>
             </div>
         </a>
 
@@ -435,6 +459,15 @@ filename: index
                 <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Cr173.jpg" 
                 title="Cr173 (Chinese-Simplified)"
                 alt="Cr173 (Chinese-Simplified) Logo"/>
+            </div>
+        </a>
+
+
+        <a href="https://dzen.ru/a/Y6GmaUA3CQ3of9v9">
+            <div class="card">
+                <img class="card-img-top" style="width:auto; height: 50px;" src="./img/logos/int/Dzen.png" 
+                title="Dzen (Russian)"
+                alt="Dzen (Russian) Logo"/>
             </div>
         </a>
 
