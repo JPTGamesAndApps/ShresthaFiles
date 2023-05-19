@@ -66,6 +66,15 @@ filename: index
 <div class="card-body">
     <div class="card-group" style="opacity: 0.5;">
 
+        <a href="https://download.cnet.com/Shrestha-Files-Pro-X-File-Explorer-for-Windows/3000-2248_4-78705736.html">
+            <div class="card">
+                <img class="card-img-top" style="width: auto; height: 50px;" 
+                title="Cnet Download"
+                src="./img/logos/Download.png" 
+                alt="Cnet Download Logo"/>
+            </div>
+        </a> 
+
         <a href="https://www.softpedia.com/get/File-managers/Shrestha-Files.shtml">
             <div class="card">
                 <img class="card-img-top" style="width: auto; height: 50px;" 
