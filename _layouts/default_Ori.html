@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-REJKSFYBN0"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-REJKSFYBN0');
+      </script>
+    
+    
+    
+    
+    {% if site.google_analytics %}
+    {% comment %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endcomment %}
+    {% endif %}
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    
+    
+    
+    
+    <meta charset="UTF-8">
+
+    
+    
+    
+    
+    
+    
+    
+    
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <img src="images/SmallTile.scale-400.png" width="250px"/>
+      
+      <!--a href='//www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub'>
+        <img src='https://developer.microsoft.com/store/badges/images/English_get_L.png' alt='English badge' style='width: 127px; height: 52px;'/>
+        <img src="images/MicrosoftStoreRatingMini09062021.png" alt='Store Rating 4.2 of 5' style='width: 52px; height:52px;'/>
+      </a-->
+      
+      <!--a href='//www.microsoft.com/store/apps/9npnffsv2hqm?cid=storebadge&ocid=badge'>
+        <img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 142px; height: 52px;'/>
+      </a-->
+
+      <script type="module" src="https://getbadgecdn.azureedge.net/ms-store-badge.bundled.js"></script>
+      <ms-store-badge productid="9NPNFFSV2HQM" size="large"></ms-store-badge>
+
+      
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>     
+      
+      
+      <a href=index class="btn">Home</a>
+      
+      
+      <a href="https://www.microsoft.com/store/apps/9npnffsv2hqm?cid=GitHub" class="btn">Download</a>     
+      <!--a href="https://www.microsoft.com/store/apps/9npnffsv2hqm" class="btn">Download</a-->     
+      <!--a href="https://www.microsoft.com/store/apps/9npnffsv2hqm" class="btn">Download (Pro)</a>     
+      <a href="https://www.microsoft.com/store/apps/9PLL2XRXQ9LF" class="btn">Download (Free)</a-->          
+            
+      
+      
+      <!--a href=keyboardaccelerators class="btn">Shortcuts</a-->
+     
+      
+      <a href=changelog class="btn">Change Log</a>
+      <a href=faq class="btn">FAQs</a>
+      
+            
+      <a href="https://discord.gg/nXmdRPJAdc" class="btn">Discord</a>
+      
+    {% comment %}
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}/discussions" class="btn">Discuss on GitHub</a>
+      {% endif %}        
+    {% endcomment %}
+      
+      
+      {% comment %}
+      {% endcomment %}
+      
+      
+        <!--a href="https://jptgamesandapps.github.io/Blog/" class="btn">Blog</a-->
+        <a href=privacy class="btn">Privacy Policy</a>
+      
+      
+      
+      
+            
+      {% comment %} 
+      {% for page in site.pages %}
+        <a href={{ page.filename }} class="btn">{{ page.title }}</a>
+      {% endfor %}      
+      {% endcomment %}
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">                
+        <div>
+            <a href="https://jptgamesandapps.github.io/ShresthaFiles/keyboardaccelerators">Keyboard Accelerators (Shortcuts)</a>
+            | <a href="https://jptgamesandapps.github.io/ShresthaFiles/tipsandtricks">Tips and Tricks</a>
+            | <a href="https://jptgamesandapps.github.io/ShresthaFiles/translation">Volunteer to Translate</a>
+            | <a href="https://jptgamesandapps.github.io/ShresthaFiles/speedtest">Speed Tests</a>
+        </div>
+        
+        <span class="site-footer-owner">© 2020 - 2022 JPT Games and Apps</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
