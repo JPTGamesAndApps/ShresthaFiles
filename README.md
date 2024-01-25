@@ -1,2 +1,4 @@
-# ShresthaFiles
-This repository contains information about Shrestha Files. You can browse the website at: https://jptgamesandapps.github.io/ShresthaFiles/ for better experience. You can get Shrestha Files Pro X (https://www.microsoft.com/store/apps/9npnffsv2hqm) from Microsoft Store. The trial version of the app will run forever with some limitation.
+# S Files Pro X (Shrestha Files)
+Please visit our new website at https://www.sfiles.app/ for our brand new website. Get S Files Pro X from the Microsoft Store at https://www.microsoft.com/store/apps/9npnffsv2hqm.
+
+The informational contents of this repo was previously accessible from https://jptgamesandapps.github.io/ShresthaFiles/.
